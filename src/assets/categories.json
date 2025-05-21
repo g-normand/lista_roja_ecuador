@@ -1,0 +1,30 @@
+[
+    {
+    "name": "Regionalmente Extinta",
+    "code": "RE"
+    },
+    {
+        "name": "Criticamente Amenazada-Posiblemente Extinta",
+        "code": "CA-PE"
+    },
+    {
+        "name": "Criticamente Amenazada",
+        "code": "CR"
+    },
+    {
+        "name": "En Peligro",
+        "code": "EN"
+    },
+    {
+        "name": "Vulnerable",
+        "code": "VU"
+    },
+    {
+        "name": "Casi Amenazada",
+        "code": "NT"
+    },
+    {
+        "name": "Datos Deficientes",
+        "code": "DD"
+    }
+]
