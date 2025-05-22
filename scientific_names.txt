@@ -1,89 +1,91 @@
-Dysithamnus puncticeps
-Dysithamnus leucostictus
-Herpsilochmus axillaris
-Herpsilochmus rufimarginatus
-Myrmeciza zeledoni
-Gymnopithys bicolor
-Hylophylax naevioides
-Grallaria haplonota
-Grallaria watkinsi
-Grallaria nuchalis
-Grallaricula ferrugineipectus
-Formicarius nigricapillus
-Chamaeza campanisona
-Sclerurus albigularis
-Dendrocolaptes sanctithomae
-Xiphorhynchus lachrymosus
-Xiphorhynchus erythropygius
-Drymotoxeres pucheranii
-Pseudocolaptes lawrencii
-Syndactyla rufosuperciliata
-Thripadectes ignobilis
-Asthenes griseomurina
-Xenerpestes singularis
-Synallaxis stictothorax
-Myiopagis olallai
-Myiopagis subplacens
-Elaenia obscura
-Pseudelaenia leucospodia
-Phylloscartes poecilotis
-Phylloscartes orbitalis
-Phylloscartes gualaquizae
-Rhynchocyclus pacificus
-Platyrinchus flavigularis
-Onychorhynchus coronatus
-Lathrotriccus griseipectus
-Contopus cooperi
-Mitrephanes phaeocercus
-Cnemarchus erythropygius
-Conopias albovittatus
-Rhytipterna holerythra
-Ramphotrigon fuscicauda
-Pipreola jucunda
-Snowornis subalaris
-Cotinga nattererii
-Lipaugus fuscocinereus
-Carpodectes hopkei
-Chloropipo unicolor
-Lepidothrix isidorei
-Ceratopipra mentalis
-Laniocera rufescens
-Pachysylvia semibrunnea
-Odontorchilus branickii
-Cantorchilus leucopogon
-Cyphorhinus phaeocephalus
-Polioptila schistaceigula
-Entomodestes coracinus
-Turdus obsoletus
-Turdus nigriceps
-Turdus assimilis
-Conothraupis speculigera
-Bangsia edwardsi
-Tangara palmeri
-Tangara rufigula
-Tangara lavinia
-Tangara johannae
-Dacnis venusta
-Heterospingus xanthopygius
-Chrysothlypis salmoni
-Diglossa indigotica
-Sicalis taczanowskii
-Arremon abeillei
-Atlapetes albiceps
-Chlorothraupis carmioli
-Chlorothraupis olivacea
-Myiothlypis fraseri
-Psarocolius wagleri
-Agelasticus xanthophthalmus
-Spinus spinescens
-Euphonia fulvicrissa
-Chlorophonia flavirostris
-Odontophorus stellatus
-Dromococcyx pavoninus
-Cypseloides cherriei
-Avocettula recurvirostris
-Lophornis chalybeus
-Campylopterus falcatus
-Pyrrhura roseifrons
-Chloropipo flavicapilla
-Cacicus latirostris
+aswant1
+chaant1
+spcant1
+whsant4
+yebant2
+ruwant4
+zelant1
+bicant2
+spoant1
+plbant1
+watant1
+chnant1
+rubant5
+blhant1
+shtant1
+grtlea1
+nobwoo1
+blswoo1
+spowoo1
+grescy1
+buftuf1
+bbfgle1
+unitre1
+mocthi1
+equgra1
+necspi1
+fooela1
+pacela1
+higela2
+gawtyr2
+vabtyr1
+spbtyr1
+ecutyr1
+pacfla1
+yetspa1
+royfly1
+gybfly1
+olsfly
+tuffly
+rrbtyr1
+whrfly
+rufmou1
+dutfla1
+orbfru1
+gytpih1
+blucot1
+duspih1
+bltcot1
+jetman2
+blrman1
+recman1
+spemou1
+rungre1
+gymwre1
+sttwre1
+sonwre1
+sltgna1
+blasol1
+pavthr1
+slathr2
+whtrob1
+bawtan1
+mobtan1
+gagtan1
+ruttan1
+ruwtan1
+blwtan1
+sctdac1
+scbtan2
+sawtan1
+indflo1
+sutfin1
+bkcspa1
+whbfin1
+olitan1
+lestan
+gagwar2
+chhoro1
+paebla2
+andsis1
+fuveup1
+yecchl1
+stwqua1
+pavcuc1
+spfswi1
+fitawl1
+fescoq3
+lazsab1
+rofpar3
+yehman2
+batoro1

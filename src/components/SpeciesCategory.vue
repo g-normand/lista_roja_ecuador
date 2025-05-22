@@ -13,6 +13,7 @@
                { key: 'scientific_name', label: 'Nombre cientifico', sortable: true },
                { key: 'common_name', label: 'Nombre en inglés', sortable: true },
                { key: 'notes', label: 'Nota', sortable: true },
+               { key: 'iucn_status', label: 'IUCN Status', sortable: true },
              ]"
              :items="category_list"
              :tbody-tr-class="rowClass"
@@ -28,12 +29,34 @@
                 {{ sp.value }}
               </b-link>
             </template>
-             <template #cell(lifelist)="sp">
-              <b-link v-if="sp.item.seen"
-                 :href="'https://ebird.org/lifelist?time=life&spp=' + sp.item.species_code " 
-                target="_blank">
-                My Lists
-              </b-link>
+             <template #cell(iucn_status)="sp">
+              <span v-if="sp.item.iucn_status == 'IUCN_LC'" class="ebirdBadge u-inline-xs u-color-constatus-lc">
+                <span class="Badge-label">LC</span>
+              </span>
+              <span v-if="sp.item.iucn_status == 'IUCN_NT'" class="ebirdBadge u-inline-xs u-color-constatus-nt">
+                <span class="Badge-label">NT</span>
+              </span>
+              <span v-if="sp.item.iucn_status == 'IUCN_VU'" class="ebirdBadge u-inline-xs u-color-constatus-vu">
+                <span class="Badge-label">VU</span>
+              </span>
+              <span v-if="sp.item.iucn_status == 'IUCN_EN'" class="ebirdBadge u-inline-xs u-color-constatus-en">
+                <span class="Badge-label">EN</span>
+              </span>
+              <span v-if="sp.item.iucn_status == 'IUCN_CR'" class="ebirdBadge u-inline-xs u-color-constatus-cr">
+                <span class="Badge-label">CR</span>
+              </span>
+              <span v-if="sp.item.iucn_status == 'IUCN_EX'" class="ebirdBadge u-inline-xs u-color-constatus-ex">
+                <span class="Badge-label">EX</span>
+              </span>
+              <span v-if="sp.item.iucn_status == 'IUCN_EW'" class="ebirdBadge u-inline-xs u-color-constatus-ew">
+                <span class="Badge-label">EW</span>
+              </span>
+              <span v-if="sp.item.iucn_status == 'IUCN_DD'" class="ebirdBadge u-inline-xs u-color-constatus-dd">
+                <span class="Badge-label">DD</span>
+              </span>
+              <span v-if="sp.item.iucn_status == 'IUCN_NE'" class="ebirdBadge u-inline-xs u-color-constatus-ne">
+                <span class="Badge-label">NE</span>
+              </span>
             </template>
           </b-table>
         </b-card-body>

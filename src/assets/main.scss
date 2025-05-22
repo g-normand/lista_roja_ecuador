@@ -163,3 +163,49 @@ html, body, .initial-content{
   .zozio:hover {
 	filter: invert(46%) sepia(92%) saturate(491%) hue-rotate(49deg) brightness(97%) contrast(102%);
   }
+
+  .ebirdBadge {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	vertical-align: middle;
+	color: white;
+	background-color:black;
+	font-weight: bold;
+	border-radius: 10rem;
+	padding-top: 0.1rem;
+	padding-bottom: 0.2rem;
+	padding-left: 0.6rem;
+	padding-right: 0.6rem;
+	.Icon {
+		align-self: center;
+	}
+}
+
+.ebirdBadge {
+	&.u-color-constatus-lc {
+		color: #2e261f;
+		background-color: #68bb53;
+	}
+	&.u-color-constatus-nt {
+		color: #2e261f;
+		background-color: #d1e744;;
+	}
+	&.u-color-constatus-vu {
+		color: #2e261f;
+		background-color: #e5d42d;
+	}
+	&.u-color-constatus-en {
+		color: #2e261f;
+		background-color: #e77b4d;
+	}
+	&.u-color-constatus-cr {
+		background-color: #b61917;
+	}
+	&.u-color-constatus-ex {
+		background-color: #000;
+	}
+	&.u-color-constatus-ew {
+		background-color: #542344;
+	}
+}
