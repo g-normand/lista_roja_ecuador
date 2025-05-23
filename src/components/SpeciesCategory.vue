@@ -1,7 +1,7 @@
 <template>
 <b-container fluid class="h-100 bg-light overflow-auto" id="specieslist">
   <b-row class="h-100">
-    <b-col class="h-100 col-xs-12 md-6 col-lg-6 d-flex flex-column py-2">
+    <b-col class="h-100 col-xs-12 md-9 col-lg-9 d-flex flex-column py-2">
        <b-card v-if="category.name">
          <b-card-body>
             <h3> {{ category.name }} ({{ category_list.length }})</h3>
@@ -10,17 +10,19 @@
              responsive
              :fields="[
                { key: 'family', label: 'Familia', sortable: true },
+               { key: 'picture', label: 'Imagen', sortable: false },
                { key: 'scientific_name', label: 'Nombre cientifico', sortable: true },
                { key: 'common_name', label: 'Nombre en inglés', sortable: true },
                { key: 'notes', label: 'Nota', sortable: true },
                { key: 'iucn_status', label: 'IUCN Status', sortable: true },
              ]"
              :items="category_list"
-             :tbody-tr-class="rowClass"
+             :per-page="perPage"
+             :current-page="currentPage"
            >
-             <template #cell(seen)="sp">
-                 <b-icon icon="square" />
-             </template>
+             <template #cell(picture)="sp">
+                <iframe  v-if="sp.item.ebird_picture && showIframes" :src="sp.item.ebird_picture + '/embed'" height="332" width="320" frameborder="0" allowfullscreen></iframe> 
+            </template>
              <template #cell(common_name)="sp">
                <b-link
                  :href="sp.item.species_code + '/EC'" 
@@ -59,11 +61,20 @@
               </span>
             </template>
           </b-table>
+           <b-pagination
+              v-if="category_list.length > 15"
+              v-model="currentPage"
+              :total-rows="category_list.length"
+              :per-page="perPage"
+              align="center"
+              class="my-2"
+            />
         </b-card-body>
       </b-card>
       <b-card fluid class="h-100 bg-light" v-if="!category.name">
         Por favor, seleccione una categoría.<br /><br />
-
+        Las fotos provienen de la Macaulay Library.
+        <br />
         Los datos provienen de la <a href="https://avesconservacion.org/wp-content/uploads/2021/11/1-LR-lista_roja_avesEC.pdf" target="_blank">lista roja de las aves del Ecuador de 2019</a>.
       </b-card>
     </b-col>
@@ -81,7 +92,9 @@ export default {
     return {
       species_list: species_list,
       category_list: [],
-      user_species: [],
+      currentPage: 1,
+      perPage: 15,
+      showIframes: true,  
     }
   },
   props: ['category'],
@@ -89,31 +102,29 @@ export default {
     species_list_table() {
         this.category_list = this.species_list
           .filter((s) => s.category.includes(this.category.code));
-    },
-    rowClass(item, type) {
-      if (item && type === 'row') {
-        if (item.seen === true) {
-          return 'table-active'
-        } else {
-          return 'not-checked-species'
-        } 
-      } else {
-        return null
-      }
     }
   },
   created: function() {
     eventBus.$on("userdata-changed", (data) => {
-      this.user_species = data.species;
       this.species_list_table();
     });
   },
   watch: { 
     category: function(newVal, oldVal) { // watch it
+      this.currentPage = 1;
       this.species_list_table();
+      this.showIframes = false;
+      this.$nextTick(() => {
+        this.showIframes = true;
+      });
+    },
+    currentPage() {
+      this.showIframes = false;
+      this.$nextTick(() => {
+        this.showIframes = true;
+      });
     }
   }
 };
-
 
 </script>

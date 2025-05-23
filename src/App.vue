@@ -1,6 +1,5 @@
 <script setup>
 import SpeciesCategory from './components/SpeciesCategory.vue'
-import UploadFile from './components/UploadFile.vue'
 import FooterInfo from './components/FooterInfo.vue'
 import categories from "./assets/categories.json";
 import logo_guiguide from "./assets/logo_guiguide.png";
@@ -8,10 +7,9 @@ import logo_zoziologie from "./assets/logo_zoziologie.svg";
 </script>
 
 <template>
-  <UploadFile />
   <div>
 
-    <b-button squared v-b-toggle.sidebar-categories class="categories-button" v-show="show_categories_button">See categories</b-button>
+    <b-button squared v-b-toggle.sidebar-categories class="categories-button" v-show="show_categories_button">Ver categorías</b-button>
       <b-sidebar title="Categorías" shadow id="sidebar-categories" class="mt-2">
           <b-overlay rounded="sm">
             <div class="py-2" id="category-group">
@@ -19,7 +17,7 @@ import logo_zoziologie from "./assets/logo_zoziologie.svg";
               squared
               v-for="(r, i) in categories"
               :key="r.category"
-              class="categories-button"
+              :class="r.code === current_category.code ? 'current-categories-button' : 'categories-button'"
               @click="changeCategory(r)">
               <b-icon icon="binoculars" />
               {{ r.name }}

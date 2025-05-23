@@ -1,322 +1,322 @@
-family,scientific_name,common_name,species_code,category,notes,IUCN_status,IUCN_comment
-Anatidae ,Spatula cyanoptera borreroi,Cinnamon Teal,https://ebird.org/species/cintea,RE,"solo subespecie residente (no esta en eBird). En la lista, esta como Anas cyanoptera borreroi", IUCN_LC,IUCN update 2024
-Rallidae ,Fulica americana columbiana,American Coot,https://ebird.org/species/y00475,RE,solo subespecie residente (no esta en eBird), IUCN_LC, IUCN update 2024
-Passerellidae,Ammodramus savannarum, Grasshopper Sparrow, https://ebird.org/species/graspa,RE,, IUCN_LC, IUCN update 2024
-Cracidae ,Crax globulosa, Wattled Curassow, https://ebird.org/species/watcur1,CA-PE,, IUCN_EN, IUCN update 2024
-Trochilidae ,Eriocnemis godini, Turquoise-throated Puffleg, https://ebird.org/species/tutpuf1,CA-PE,, IUCN_CR, IUCN update 2024
-Psittacidae,Ognorhynchus icterotis, Yellow-eared Parrot, https://ebird.org/species/yeepar1,CA-PE,, IUCN_VU, IUCN update 2024
-Anatidae,Netta erythrophthalma , Southern Pochard, https://ebird.org/species/soupoc1,CR,, IUCN_LC, IUCN update 2024
-Cracidae,Crax rubra , Great Curassow, https://ebird.org/species/grecur1,CR,, IUCN_VU, IUCN update 2024
-Threskiornithidae,Theristicus branickii ,Andean Ibis,https://ebird.org/species/bkfibi2,CR,"En la lista, esta como Theristicus melanopis ", IUCN_NT, IUCN update 2024
-Accipitridae,Spizaetus isidori , Black-and-chestnut Eagle, https://ebird.org/species/baceag2,CR,, IUCN_EN, IUCN update 2024
-Accipitridae,Buteogallus solitarius , Solitary Eagle, https://ebird.org/species/soleag1,CR,, IUCN_NT, IUCN update 2024
-Trochilidae,Oreotrochilus cyanolaemus, Blue-throated Hillstar, https://ebird.org/species/buthil1,CR,, IUCN_CR, IUCN update 2024
-Trochilidae,Oreotrochilus estella, Andean Hillstar, https://ebird.org/species/andhil3,CR,, IUCN_LC, IUCN update 2024
-Trochilidae,Eriocnemis nigrivestis, Black-breasted Puffleg, https://ebird.org/species/blbpuf3,CR,, IUCN_EN, IUCN update 2024
-Psittacidae,Ara ambiguus, Great Green Macaw, https://ebird.org/species/grgmac,CR,, IUCN_CR, IUCN update 2024
-Tyrannidae,Pseudocolopteryx acutipennis, Subtropical Doradito, https://ebird.org/species/subdor1,CR,, IUCN_LC, IUCN update 2024
-Thraupidae,Wetmorethraupis sterrhopteron, Orange-throated Tanager, https://ebird.org/species/orttan1,CR,, IUCN_VU, IUCN update 2024
-Tinamidae,Tinamus osgoodi, Black Tinamou, https://ebird.org/species/blatin1,EN,, IUCN_VU, IUCN update 2024
-Anatidae,Cairina moschata, Muscovy Duck, https://ebird.org/species/musduc,EN,, IUCN_LC, IUCN update 2024
-Anatidae,Sarkidiornis melanotos, Knob-billed Duck, https://ebird.org/species/comduc2,EN,, IUCN_LC, IUCN update 2024
-Cracidae,Penelope ortoni, Baudo Guan, https://ebird.org/species/baugua1,EN,, IUCN_EN, IUCN update 2024
-Odontophoridae,Rhynchortyx cinctus, Tawny-faced Quail, https://ebird.org/species/tafqua1,EN,, IUCN_NT, IUCN update 2024
-Cathartidae,Vultur gryphus, Andean Condor, https://ebird.org/species/andcon1,EN,, IUCN_VU, IUCN update 2024
-Accipitridae,Pseudastur occidentalis, Gray-backed Hawk, https://ebird.org/species/gybhaw2,EN,, IUCN_VU, IUCN update 2024
-Rallidae,Rallus longirostris, Mangrove Rail, https://ebird.org/species/manrai1,EN,, IUCN_LC, IUCN update 2024
-Burhinidae,Hesperoburhinus superciliaris,Peruvian Thick-knee,https://ebird.org/species/petkne1,EN,"En la lista, esta como Burhinus superciliaris ", IUCN_VU, IUCN update 2024
-Thinocoridae,Attagis gayi, Rufous-bellied Seedsnipe, https://ebird.org/species/rubsee2,EN,, IUCN_LC, IUCN update 2024
-Laridae,Sternula lorata, Peruvian Tern, https://ebird.org/species/perter2,EN,, IUCN_EN, IUCN update 2024
-Columbidae,Geotrygon purpurata, Purple Quail-Dove, https://ebird.org/species/sapqud1,EN,, IUCN_EN, IUCN update 2024
-Cuculidae,Neomorphus radiolosus, Banded Ground-Cuckoo, https://ebird.org/species/bagcuc1,EN,, IUCN_VU, IUCN update 2024
-Strigidae,Glaucidium nubicola, Cloud-forest Pygmy-Owl, https://ebird.org/species/clopyo1,EN,, IUCN_VU, IUCN update 2024
-Strigidae,Glaucidium griseiceps, Central American Pygmy-Owl, https://ebird.org/species/capowl1,EN,, IUCN_LC, IUCN update 2024
-Trochilidae,Heliangelus regalis, Royal Sunangel, https://ebird.org/species/roysun1,EN,, IUCN_NT, IUCN update 2024
-Trochilidae,Metallura baroni, Violet-throated Metaltail, https://ebird.org/species/vitmet1,EN,, IUCN_VU, IUCN update 2024
-Trochilidae,Chaetocercus berlepschi, Esmeraldas Woodstar, https://ebird.org/species/esmwoo2,EN,, IUCN_VU, IUCN update 2024
-Trochilidae,Chalybura buffonii, White-vented Plumeleteer, https://ebird.org/species/whvplu1,EN,, IUCN_LC, IUCN update 2024
-Trochilidae,Chrysuronia humboldtii,Humboldt's Sapphire,https://ebird.org/species/humsap2,EN,"En la lista, esta como Hylocharis humboldtii", IUCN_LC, IUCN update 2024
-Capitonidae,Capito quinticolor, Five-colored Barbet, https://ebird.org/species/ficbar1,EN,, IUCN_NT, IUCN update 2024
-Falconidae,Micrastur plumbeus, Plumbeous Forest-Falcon, https://ebird.org/species/plffal1,EN,, IUCN_VU, IUCN update 2024
-Falconidae,Falco deiroleucus, Orange-breasted Falcon, https://ebird.org/species/orbfal1,EN,, IUCN_NT, IUCN update 2024
-Falconidae,Falco peregrinus cassini,Peregrine Falcon,https://ebird.org/species/perfal,EN,solo subespecie residente (no esta en eBird), IUCN_LC, IUCN update 2024
-Psittacidae,Hapalopsittaca pyrrhops, Red-faced Parrot, https://ebird.org/species/refpar2,EN,, IUCN_EN, IUCN update 2024
-Psittacidae,Amazona autumnalis, Red-lored Amazon, https://ebird.org/species/relpar,EN,subespecie lilacina puede ser especie válida (CR).,, IUCN update 2024
-Psittacidae,Pyrrhura orcesi, El Oro Parakeet, https://ebird.org/species/elopar1,EN,, IUCN_EN, IUCN update 2024
-Psittacidae,Ara militaris, Military Macaw, https://ebird.org/species/milmac,EN,, IUCN_VU, IUCN update 2024
-Psittacidae,Leptosittaca branickii, Golden-plumed Parakeet, https://ebird.org/species/goppar1,EN,, IUCN_LC, IUCN update 2024
-Psittacidae,Psittacara wagleri, Scarlet-fronted Parakeet, https://ebird.org/species/scfpar2,EN,, IUCN_NT, IUCN update 2024
-Thamnophilidae,Dysithamnus occidentalis, Bicolored Antvireo, https://ebird.org/species/bicant4,EN,, IUCN_NT, IUCN update 2024
-Thamnophilidae,Drymophila devillei, Striated Antbird, https://ebird.org/species/strant2,EN,, IUCN_LC, IUCN update 2024
-Thamnophilidae,Ampelornis griseiceps,Gray-headed Antbird,https://ebird.org/species/gyhant1,EN,"En la lista, esta como Myrmeciza griseiceps", IUCN_NT, IUCN update 2024
-Thamnophilidae,Phaenostictus mcleannani, Ocellated Antbird, https://ebird.org/species/oceant1,EN,, IUCN_LC, IUCN update 2024
-Melanopareiidae,Melanopareia maranonica, Marañon Crescentchest, https://ebird.org/species/marcre1,EN,, IUCN_LC, IUCN update 2024
-Conopophagidae,Pittasoma rufopileatum, Rufous-crowned Antpitta, https://ebird.org/species/rucant3,EN,, IUCN_LC, IUCN update 2024
-Grallariidae,Grallaria ridgelyi, Jocotoco Antpitta, https://ebird.org/species/jocant1,EN,, IUCN_EN, IUCN update 2024
-Rhinocryptidae,Scytalopus chocoensis, Choco Tapaculo, https://ebird.org/species/chotap1,EN,, IUCN_LC, IUCN update 2024
-Rhinocryptidae,Scytalopus robbinsi, Ecuadorian Tapaculo, https://ebird.org/species/ecutap1,EN,, IUCN_EN, IUCN update 2024
-Furnariidae,Neophilydor fuscipenne,Slaty-winged Foliage-gleaner,https://ebird.org/species/swfgle,EN,"En la lista, esta como Philydor fuscipenne ", IUCN_LC, IUCN update 2024
-Furnariidae,Synallaxis maranonica, Marañon Spinetail, https://ebird.org/species/marspi3,EN,, IUCN_CR, IUCN update 2024
-Furnariidae,Synallaxis tithys, Blackish-headed Spinetail, https://ebird.org/species/blhspi1,EN,, IUCN_VU, IUCN update 2024
-Furnariidae,Synallaxis cherriei, Chestnut-throated Spinetail, https://ebird.org/species/chtspi1,EN,, IUCN_LC, IUCN update 2024
-Tyrannidae,Hemitriccus cinnamomeipectus, Cinnamon-breasted Tody-Tyrant, https://ebird.org/species/cbttyr1,EN,, IUCN_LC, IUCN update 2024
-Tyrannidae,Agriornis albicauda, White-tailed Shrike-Tyrant, https://ebird.org/species/wtstyr1,EN,, IUCN_VU, IUCN update 2024
-Tyrannidae,Ochthoeca leucophrys, White-browed Chat-Tyrant, https://ebird.org/species/wbctyr1,EN,, IUCN_LC, IUCN update 2024
-Cotingidae,Ampelion rufaxilla, Chestnut-crested Cotinga, https://ebird.org/species/chccot1,EN,, IUCN_LC, IUCN update 2024
-Cotingidae,Pyroderus scutatus, Red-ruffed Fruitcrow, https://ebird.org/species/rerfru1,EN,, IUCN_LC, IUCN update 2024
-Cotingidae,Cephalopterus penduliger, Long-wattled Umbrellabird, https://ebird.org/species/lowumb1,EN,, IUCN_VU, IUCN update 2024
-Vireonidae,Vireo masteri, Choco Vireo, https://ebird.org/species/chovir1,EN,, IUCN_NT, IUCN update 2024
-Turdidae,Cichlopsis leucogenys, Rufous-brown Solitaire, https://ebird.org/species/rubsol1,EN,,,
-Thraupidae,Dacnis berlepschi, Scarlet-breasted Dacnis, https://ebird.org/species/scbdac1,EN,, IUCN_VU, IUCN update 2024
-Thraupidae,Conirostrum binghami,Giant Conebill,https://ebird.org/species/giacon1,EN,"En la lista, esta como Oreomanes fraseri ", IUCN_NT, IUCN update 2024
-Thraupidae,Xenodacnis parina, Tit-like Dacnis, https://ebird.org/species/tildac1,EN,,,
-Passerellidae,Oreothraupis arremonops, Tanager Finch, https://ebird.org/species/tanfin1,EN,, IUCN_LC, IUCN update 2024
-Passerellidae,Atlapetes pallidiceps, Pale-headed Brushfinch, https://ebird.org/species/phbfin1,EN,, IUCN_EN, IUCN update 2024
-Tinamidae,Tinamus tao, Gray Tinamou, https://ebird.org/species/grytin1,VU,, IUCN_VU, IUCN update 2024
-Tinamidae,Crypturellus berlepschi, Berlepsch's Tinamou, https://ebird.org/species/bertin1,VU,, IUCN_LC, IUCN update 2024
-Tinamidae,Crypturellus obsoletus, Brown Tinamou, https://ebird.org/species/brotin1,VU,, IUCN_LC, IUCN update 2024
-Anhimidae,Anhima cornuta, Horned Screamer, https://ebird.org/species/horscr1,VU,, IUCN_LC, IUCN update 2024
-Cracidae,Penelope barbata, Bearded Guan, https://ebird.org/species/beagua1,VU,, IUCN_NT, IUCN update 2024
-Cracidae,Penelope purpurascens, Crested Guan, https://ebird.org/species/cregua1,VU,, IUCN_NT, IUCN update 2024
-Cracidae,Ortalis erythroptera, Rufous-headed Chachalaca, https://ebird.org/species/ruhcha1,VU,, IUCN_VU, IUCN update 2024
-Odontophoridae,Odontophorus erythrops, Rufous-fronted Wood-Quail, https://ebird.org/species/rfwqua1,VU,, IUCN_LC, IUCN update 2024
-Odontophoridae,Odontophorus melanonotus, Dark-backed Wood-Quail, https://ebird.org/species/dbwqua1,VU,, IUCN_LC, IUCN update 2024
-Podicipedidae,Podiceps occipitalis, Silvery Grebe, https://ebird.org/species/silgre1,VU,,,
-Ardeidae,Agamia agami, Agami Heron, https://ebird.org/species/agaher1,VU,, IUCN_NT, IUCN update 2024
-Ardeidae,Zebrilus undulatus, Zigzag Heron, https://ebird.org/species/zigher1,VU,, IUCN_LC, IUCN update 2024
-Ardeidae,Botaurus pinnatus, Pinnated Bittern, https://ebird.org/species/pinbit1,VU,, IUCN_LC, IUCN update 2024
-Accipitridae,Morphnus guianensis, Crested Eagle, https://ebird.org/species/creeag1,VU,, IUCN_NT, IUCN update 2024
-Accipitridae,Harpia harpyja, Harpy Eagle, https://ebird.org/species/hareag1,VU,, IUCN_VU, IUCN update 2024
-Accipitridae,Spizaetus tyrannus, Black Hawk-Eagle, https://ebird.org/species/blheag1,VU,, IUCN_LC, IUCN update 2024
-Accipitridae,Spizaetus melanoleucus, Black-and-white Hawk-Eagle, https://ebird.org/species/bawhae1,VU,, IUCN_LC, IUCN update 2024
-Accipitridae,Circus cinereus, Cinereous Harrier, https://ebird.org/species/cinhar1,VU,, IUCN_LC, IUCN update 2024
-Accipitridae,Cryptoleucopteryx plumbea, Plumbeous Hawk, https://ebird.org/species/pluhaw,VU,, IUCN_NT, IUCN update 2024
-Accipitridae,Buteogallus anthracinus, Common Black Hawk, https://ebird.org/species/comblh1,VU,, IUCN_LC, IUCN update 2024
-Accipitridae,Leucopternis semiplumbeus, Semiplumbeous Hawk, https://ebird.org/species/semhaw,VU,, IUCN_LC, IUCN update 2024
-Rallidae,Aramides wolfi, Brown Wood-Rail, https://ebird.org/species/brwrai1,VU,, IUCN_VU, IUCN update 2024
-Rallidae,Aramides axillaris, Rufous-necked Wood-Rail, https://ebird.org/species/rnwrai1,VU,, IUCN_LC, IUCN update 2024
-Charadriidae,Anarhynchus nivosus,Snowy Plover,https://ebird.org/species/snoplo5,VU,"En la lista, esta como Charadrius nivosus", IUCN_NT, IUCN update 2024
-Scolopacidae,Gallinago imperialis, Imperial Snipe, https://ebird.org/species/impsni1,VU,, IUCN_NT, IUCN update 2024
-Columbidae,Leptotrygon veraguensis, Olive-backed Quail-Dove, https://ebird.org/species/obqdov1,VU,, IUCN_LC, IUCN update 2024
-Columbidae,Leptotila ochraceiventris, Ochre-bellied Dove, https://ebird.org/species/ocbdov1,VU,, IUCN_VU, IUCN update 2024
-Trochilidae,Chalcostigma stanleyi, Blue-mantled Thornbill, https://ebird.org/species/blmtho1,VU,, IUCN_LC, IUCN update 2024
-Trochilidae,Haplophaedia lugens, Hoary Puffleg, https://ebird.org/species/hoapuf1,VU,, IUCN_NT, IUCN update 2024
-Trochilidae,Eriocnemis derbyi, Black-thighed Puffleg, https://ebird.org/species/bltpuf1,VU,, IUCN_LC, IUCN update 2024
-Trochilidae,Heliodoxa gularis, Pink-throated Brilliant, https://ebird.org/species/pitbri1,VU,, IUCN_LC, IUCN update 2024
-Trochilidae,Chaetocercus bombus, Little Woodstar, https://ebird.org/species/litwoo5,VU,, IUCN_NT, IUCN update 2024
-Trochilidae,Chalybura urochrysia, Bronze-tailed Plumeleteer, https://ebird.org/species/brtplu1,VU,, IUCN_LC, IUCN update 2024
-Trogonidae,Trogon massena, Slaty-tailed Trogon, https://ebird.org/species/slttro1,VU,, IUCN_LC, IUCN update 2024
-Trogonidae,Trogon mesurus, Ecuadorian Trogon, https://ebird.org/species/bkttro2,VU,, IUCN_LC, IUCN update 2024
-Galbulidae,Galbula pastazae, Coppery-chested Jacamar, https://ebird.org/species/cocjac2,VU,, IUCN_LC, IUCN update 2024
-Bucconidae,Notharchus pectoralis, Black-breasted Puffbird, https://ebird.org/species/blbpuf1,VU,, IUCN_LC, IUCN update 2024
-Ramphastidae,Andigena hypoglauca, Gray-breasted Mountain-Toucan, https://ebird.org/species/gybmot1,VU,, IUCN_LC, IUCN update 2024
-Ramphastidae,Andigena laminirostris, Plate-billed Mountain-Toucan, https://ebird.org/species/pbmtou1,VU,, IUCN_NT, IUCN update 2024
-Picidae,Dryobates chocoensis,Choco Woodpecker,https://ebird.org/species/chowoo1,VU,"En la lista, esta como Veniliornis chocoensis", IUCN_LC, IUCN update 2024
-Picidae,Campephilus gayaquilensis, Guayaquil Woodpecker, https://ebird.org/species/guawoo2,VU,, IUCN_LC, IUCN update 2024
-Falconidae,Falco femoralis, Aplomado Falcon, https://ebird.org/species/aplfal,VU,, IUCN_LC, IUCN update 2024
-Psittacidae,Touit stictopterus, Spot-winged Parrotlet, https://ebird.org/species/spwpar2,VU,, IUCN_NT, IUCN update 2024
-Psittacidae,Brotogeris pyrrhoptera, Gray-cheeked Parakeet, https://ebird.org/species/gycpar1,VU,, IUCN_VU, IUCN update 2024
-Psittacidae,Pyrilia pulchra, Rose-faced Parrot, https://ebird.org/species/rofpar2,VU,, IUCN_LC, IUCN update 2024
-Psittacidae,Pyrrhura albipectus, White-necked Parakeet, https://ebird.org/species/whnpar1,VU,, IUCN_VU, IUCN update 2024
-Psittacidae,Ara chloropterus, Red-and-green Macaw, https://ebird.org/species/ragmac1,VU,, IUCN_LC, IUCN update 2024
-Thamnophilidae,Thamnophilus praecox, Cocha Antshrike, https://ebird.org/species/cocant1,VU,, IUCN_NT, IUCN update 2024
-Thamnophilidae,Thamnophilus punctatus, Northern Slaty-Antshrike, https://ebird.org/species/norsla1,VU,, IUCN_LC, IUCN update 2024
-Thamnophilidae,Myrmotherula behni, Plain-winged Antwren, https://ebird.org/species/plwant2,VU,, IUCN_LC, IUCN update 2024
-Thamnophilidae,Myrmelastes schistaceus,Slate-colored Antbird,https://ebird.org/species/slcant3,VU,"En la lista, esta como Schistocichla schistacea", IUCN_LC, IUCN update 2024
-Thamnophilidae,Sipia nigricauda,Esmeraldas Antbird,https://ebird.org/species/esmant1,VU,"En la lista, esta como Myrmeciza nigricauda", IUCN_LC, IUCN update 2024
-Thamnophilidae,Sipia berlepschi,Stub-tailed Antbird,https://ebird.org/species/sttant3,VU,"En la lista, esta como Myrmeciza berlepschi", IUCN_LC, IUCN update 2024
-Grallariidae,Grallaria gigantea, Giant Antpitta, https://ebird.org/species/giaant1,VU,, IUCN_VU, IUCN update 2024
-Grallariidae,Grallaria alleni, Moustached Antpitta, https://ebird.org/species/mouant1,VU,, IUCN_VU, IUCN update 2024
-Grallariidae,Grallaria flavotincta, Yellow-breasted Antpitta, https://ebird.org/species/yebant1,VU,, IUCN_LC, IUCN update 2024
-Grallariidae,Hylopezus perspicillatus, Streak-chested Antpitta, https://ebird.org/species/stcant2,VU,, IUCN_LC, IUCN update 2024
-Grallariidae,Grallaricula peruviana, Peruvian Antpitta, https://ebird.org/species/perant1,VU,, IUCN_NT, IUCN update 2024
-Grallariidae,Grallaricula lineifrons, Crescent-faced Antpitta, https://ebird.org/species/crfant1,VU,, IUCN_LC, IUCN update 2024
-Furnariidae,Sclerurus guatemalensis, Scaly-throated Leaftosser, https://ebird.org/species/sctlea1,VU,, IUCN_LC, IUCN update 2024
-Furnariidae,Syndactyla ruficollis, Rufous-necked Foliage-gleaner, https://ebird.org/species/rnfgle1,VU,, IUCN_LC, IUCN update 2024
-Furnariidae,Clibanornis erythrocephalus, Henna-hooded Foliage-gleaner, https://ebird.org/species/hhfgle1,VU,, IUCN_NT, IUCN update 2024
-Furnariidae,Margarornis stellatus, Fulvous-dotted Treerunner, https://ebird.org/species/fudtre1,VU,, IUCN_LC, IUCN update 2024
-Furnariidae,Xenerpestes minlosi, Double-banded Graytail, https://ebird.org/species/dobgra1,VU,, IUCN_LC, IUCN update 2024
-Tyrannidae,Hemitriccus rufigularis, Buff-throated Tody-Tyrant, https://ebird.org/species/btttyr2,VU,, IUCN_LC, IUCN update 2024
-Tyrannidae,Myiophobus roraimae, Roraiman Flycatcher, https://ebird.org/species/rorfly1,VU,, IUCN_LC, IUCN update 2024
-Tyrannidae,Nephelomyias lintoni, Orange-banded Flycatcher, https://ebird.org/species/orbfly1,VU,, IUCN_LC, IUCN update 2024
-Tyrannidae,Sirystes albogriseus, Choco Sirystes, https://ebird.org/species/siryst3,VU,, IUCN_LC, IUCN update 2024
-Tyrannidae,Attila torridus, Ochraceous Attila, https://ebird.org/species/ochatt1,VU,, IUCN_NT, IUCN update 2024
-Oxyruncidae,Oxyruncus cristatus, Sharpbill, https://ebird.org/species/sharpb1,VU,, IUCN_LC, IUCN update 2024
-Cotingidae,Pipreola frontalis, Scarlet-breasted Fruiteater, https://ebird.org/species/scbfru1,VU,,,
-Cotingidae,Pipreola chlorolepidota, Fiery-throated Fruiteater, https://ebird.org/species/fitfru1,VU,, IUCN_LC, IUCN update 2024
-Cotingidae,Doliornis remseni, Chestnut-bellied Cotinga, https://ebird.org/species/chbcot1,VU,, IUCN_NT, IUCN update 2024
-Cotingidae,Lipaugus unirufus, Rufous Piha, https://ebird.org/species/rufpih1,VU,, IUCN_LC, IUCN update 2024
-Tityridae,Laniisoma elegans, Brazilian Laniisoma, https://ebird.org/species/shlcot3,VU,, IUCN_NT, IUCN update 2024
-Tityridae,Pachyramphus spodiurus, Slaty Becard, https://ebird.org/species/slabec1,VU,, IUCN_VU, IUCN update 2024
-Corvidae,Cyanolyca armillata, Black-collared Jay, https://ebird.org/species/blcjay2,VU,,,
-Corvidae,Cyanolyca pulchra, Beautiful Jay, https://ebird.org/species/beajay1,VU,, IUCN_NT, IUCN update 2024
-Corvidae,Cyanocorax mystacalis, White-tailed Jay, https://ebird.org/species/whtjay2,VU,, IUCN_LC, IUCN update 2024
-Troglodytidae,Henicorhina leucoptera, Bar-winged Wood-Wren, https://ebird.org/species/bwwwre1,VU,, IUCN_LC, IUCN update 2024
-Thraupidae,Bangsia rothschildi, Golden-chested Tanager, https://ebird.org/species/goctan1,VU,, IUCN_LC, IUCN update 2024
-Thraupidae,Tephrophilus wetmorei,Masked Mountain Tanager,https://ebird.org/species/mamtan1,VU,"En la lista, esta como Buthraupis wetmorei", IUCN_VU, IUCN update 2024
-Thraupidae,Iridosornis porphyrocephalus, Purplish-mantled Tanager, https://ebird.org/species/pumtan2,VU,, IUCN_NT, IUCN update 2024
-Thraupidae,Saltator cinctus, Masked Saltator, https://ebird.org/species/massal1,VU,, IUCN_LC, IUCN update 2024
-Passerellidae,Bangsia flavovirens,Yellow-green Tanager,https://ebird.org/species/ygbtan1,VU,"En la lista, esta como Chlorospingus flavovirens", IUCN_VU, IUCN update 2024
-Parulidae,Setophaga cerulea, Cerulean Warbler, https://ebird.org/species/cerwar,VU,, IUCN_NT, IUCN update 2024
-Fringillidae,Spinus siemiradzkii, Saffron Siskin, https://ebird.org/species/safsis1,VU,, IUCN_LC, IUCN update 2024
-Tinamidae,Nothocercus julius, Tawny-breasted Tinamou, https://ebird.org/species/tabtin1,NT,, IUCN_LC, IUCN update 2024
-Tinamidae,Nothocercus bonapartei, Highland Tinamou, https://ebird.org/species/higtin1,NT,, IUCN_LC, IUCN update 2024
-Tinamidae,Tinamus major, Great Tinamou, https://ebird.org/species/gretin1,NT,, IUCN_LC, IUCN update 2024
-Tinamidae,Crypturellus transfasciatus, Pale-browed Tinamou, https://ebird.org/species/pabtin1,NT,, IUCN_NT, IUCN update 2024
-Anatidae,Merganetta armata, Torrent Duck, https://ebird.org/species/torduc1,NT,, IUCN_LC, IUCN update 2024
-Anatidae,Nomonyx dominicus, Masked Duck, https://ebird.org/species/masduc,NT,, IUCN_LC, IUCN update 2024
-Anatidae,Oxyura jamaicensis, Ruddy Duck, https://ebird.org/species/rudduc,NT,, IUCN_LC, IUCN update 2024
-Cracidae,Aburria aburri, Wattled Guan, https://ebird.org/species/watgua1,NT,, IUCN_LC, IUCN update 2024
-Cracidae,Mitu salvini, Salvin's Curassow, https://ebird.org/species/salcur1,NT,, IUCN_LC, IUCN update 2024
-Odontophoridae,Odontophorus speciosus, Rufous-breasted Wood-Quail, https://ebird.org/species/rbwqua1,NT,, IUCN_LC, IUCN update 2024
-Pelecanidae,Pelecanus thagus, Peruvian Pelican, https://ebird.org/species/perpel1,NT,, IUCN_NT, IUCN update 2024
-Ardeidae,Tigrisoma fasciatum, Fasciated Tiger-Heron, https://ebird.org/species/father1,NT,, IUCN_LC, IUCN update 2024
-Cathartidae,Sarcoramphus papa, King Vulture, https://ebird.org/species/kinvul1,NT,, IUCN_LC, IUCN update 2024
-Accipitridae,Spizaetus ornatus, Ornate Hawk-Eagle, https://ebird.org/species/orheag1,NT,, IUCN_NT, IUCN update 2024
-Accipitridae,Microspizias collaris,Semicollared Hawk,https://ebird.org/species/semhaw2,NT,"En la lista, esta como Accipiter collaris", IUCN_LC, IUCN update 2024
-Accipitridae,Morphnarchus princeps, Barred Hawk, https://ebird.org/species/barhaw1,NT,, IUCN_LC, IUCN update 2024
-Psophiidae,Psophia crepitans, Gray-winged Trumpeter, https://ebird.org/species/gywtru1,NT,,,
-Rallidae,Aramides calopterus, Red-winged Wood-Rail, https://ebird.org/species/rwwrai1,NT,, IUCN_LC, IUCN update 2024
-Rallidae,Amaurolimnas concolor, Uniform Crake, https://ebird.org/species/unicra1,NT,, IUCN_LC, IUCN update 2024
-Charadriidae,Hoploxypterus cayanus,Pied Plover,https://ebird.org/species/pielap1,NT,"En la lista, esta como Vanellus cayanus", IUCN_LC, IUCN update 2024
-Charadriidae,Anarhynchus wilsonia,Wilson's Plover,https://ebird.org/species/wilplo,NT,"En la lista, esta como Charadrius wilsonia", IUCN_LC, IUCN update 2024
-Scolopacidae,Calidris subruficollis, Buff-breasted Sandpiper, https://ebird.org/species/bubsan,NT,, IUCN_VU, IUCN update 2024
-Scolopacidae,Gallinago nobilis, Noble Snipe, https://ebird.org/species/nobsni1,NT,, IUCN_NT, IUCN update 2024
-Laridae,Phaetusa simplex, Large-billed Tern, https://ebird.org/species/labter1,NT,, IUCN_LC, IUCN update 2024
-Columbidae,Patagioenas goodsoni, Dusky Pigeon, https://ebird.org/species/duspig2,NT,, IUCN_LC, IUCN update 2024
-Cuculidae,Neomorphus geoffroyi, Rufous-vented Ground-Cuckoo, https://ebird.org/species/rvgcuc1,NT,,,
-Strigidae,Megascops ingens,Rufescent Screech-Owl,https://ebird.org/species/rufsco1,NT,"En la lista, esta como Megascops colombianus", IUCN_LC, IUCN update 2024
-Strigidae,Megascops centralis,Choco Screech-Owl, https://ebird.org/species/versco2,NT,"En la lista, esta como Megascops guatemalae, dos subespecies son NT",,
-Strigidae,Aegolius harrisii, Buff-fronted Owl, https://ebird.org/species/bufowl1,NT,, IUCN_LC, IUCN update 2024
-Nyctibiidae,Nyctibius maculosus, Andean Potoo, https://ebird.org/species/andpot1,NT,, IUCN_LC, IUCN update 2024
-Caprimulgidae,Nyctiphrynus rosenbergi, Choco Poorwill, https://ebird.org/species/chopoo1,NT,, IUCN_LC, IUCN update 2024
-Trochilidae,Glaucis aeneus, Bronzy Hermit, https://ebird.org/species/broher,NT,, IUCN_LC, IUCN update 2024
-Trochilidae,Androdon aequatorialis, Tooth-billed Hummingbird, https://ebird.org/species/tobhum1,NT,, IUCN_LC, IUCN update 2024
-Trochilidae,Phlogophilus hemileucurus, Ecuadorian Piedtail, https://ebird.org/species/ecupie1,NT,, IUCN_LC, IUCN update 2024
-Trochilidae,Metallura odomae, Neblina Metaltail, https://ebird.org/species/nebmet1,NT,, IUCN_LC, IUCN update 2024
-Trochilidae,Eriocnemis aline, Emerald-bellied Puffleg, https://ebird.org/species/embpuf1,NT,, IUCN_LC, IUCN update 2024
-Trochilidae,Boissonneaua jardini, Velvet-purple Coronet, https://ebird.org/species/vepcor1,NT,, IUCN_LC, IUCN update 2024
-Trochilidae,Urosticte benjamini, Purple-bibbed Whitetip, https://ebird.org/species/pubwhi1,NT,, IUCN_LC, IUCN update 2024
-Trochilidae,Urosticte ruficrissa, Rufous-vented Whitetip, https://ebird.org/species/ruvwhi1,NT,, IUCN_LC, IUCN update 2024
-Trochilidae,Heliodoxa imperatrix, Empress Brilliant, https://ebird.org/species/empbri1,NT,, IUCN_LC, IUCN update 2024
-Trochilidae,Campylopterus villaviscensio, Napo Sabrewing, https://ebird.org/species/napsab1,NT,, IUCN_LC, IUCN update 2024
-Trochilidae,Thaumasius baeri,Tumbes Hummingbird,https://ebird.org/species/tumhum1,NT,"En la lista, esta como Leucippus baeri", IUCN_LC, IUCN update 2024
-Trochilidae,Polyerata rosenbergi,Purple-chested Hummingbird,https://ebird.org/species/puchum1,NT,"En la lista, esta como Amazilia rosenbergi", IUCN_LC, IUCN update 2024
-Trochilidae,Chrysuronia grayi,Blue-headed Sapphire,https://ebird.org/species/blhsap1,NT,"En la lista, esta como Hylocharis grayi", IUCN_LC, IUCN update 2024
-Trogonidae,Trogon comptus, Blue-tailed Trogon, https://ebird.org/species/buttro1,NT,, IUCN_LC, IUCN update 2024
-Trogonidae,Trogon caligatus, Gartered Trogon, https://ebird.org/species/gartro1,NT,,,
-Galbulidae,Jacamerops aureus, Great Jacamar, https://ebird.org/species/grejac2,NT,, IUCN_LC, IUCN update 2024
-Bucconidae,Malacoptila fulvogularis, Black-streaked Puffbird, https://ebird.org/species/blspuf1,NT,, IUCN_LC, IUCN update 2024
-Bucconidae,Hapaloptila castanea, White-faced Nunbird, https://ebird.org/species/whfnun2,NT,, IUCN_LC, IUCN update 2024
-Capitonidae,Capito squamatus, Orange-fronted Barbet, https://ebird.org/species/orfbar1,NT,, IUCN_LC, IUCN update 2024
-Semnornithidae,Semnornis ramphastinus, Toucan Barbet, https://ebird.org/species/toubar1,NT,, IUCN_NT, IUCN update 2024
-Ramphastidae,Ramphastos ambiguus, Yellow-throated Toucan, https://ebird.org/species/bkmtou1,NT,, IUCN_LC, IUCN update 2024
-Ramphastidae,Ramphastos brevis, Choco Toucan, https://ebird.org/species/chotou1,NT,, IUCN_LC, IUCN update 2024
-Ramphastidae,Aulacorhynchus derbianus, Chestnut-tipped Toucanet, https://ebird.org/species/chttou3,NT,, IUCN_LC, IUCN update 2024
-Ramphastidae,Andigena nigrirostris, Black-billed Mountain-Toucan, https://ebird.org/species/bbmtou1,NT,, IUCN_LC, IUCN update 2024
-Ramphastidae,Pteroglossus torquatus, Collared Aracari, https://ebird.org/species/colara1,NT,subespecie erythropygius puede ser especie valida (VU).,,
-Picidae,Picumnus sclateri, Ecuadorian Piculet, https://ebird.org/species/ecupic1,NT,, IUCN_LC, IUCN update 2024
-Picidae,Piculus litae, Lita Woodpecker, https://ebird.org/species/litwoo1,NT,, IUCN_LC, IUCN update 2024
-Picidae,Celeus loricatus, Cinnamon Woodpecker, https://ebird.org/species/cinwoo1,NT,,IUCN_LC, IUCN update 2024
-Picidae,Campephilus haematogaster, Crimson-bellied Woodpecker, https://ebird.org/species/crbwoo1,NT,subespecie splendens puede ser especie valida (VU).,,
-Falconidae,Micrastur mirandollei, Slaty-backed Forest-Falcon, https://ebird.org/species/sbffal1,NT,, IUCN_LC, IUCN update 2024
-Falconidae,Ibycter americanus, Red-throated Caracara, https://ebird.org/species/retcar2,NT,, IUCN_LC, IUCN update 2024
-Psittacidae,Touit dilectissimus, Blue-fronted Parrotlet, https://ebird.org/species/bufpar1,NT,, IUCN_LC, IUCN update 2024
-Psittacidae,Amazona festiva, Festive Amazon, https://ebird.org/species/fespar1,NT,,,
-Psittacidae,Amazona farinosa, Mealy Amazon, https://ebird.org/species/meapar,NT,,,
-Psittacidae,Amazona mercenarius, Scaly-naped Amazon, https://ebird.org/species/scnpar1,NT,, IUCN_LC, IUCN update 2024
-Psittacidae,Ara ararauna, Blue-and-yellow Macaw, https://ebird.org/species/baymac,NT,, IUCN_LC, IUCN update 2024
-Psittacidae,Ara macao, Scarlet Macaw, https://ebird.org/species/scamac1,NT,, IUCN_LC, IUCN update 2024
-Psittacidae,Psittacara erythrogenys, Red-masked Parakeet, https://ebird.org/species/rempar,NT,, IUCN_NT, IUCN update 2024
-Sapayoidae,Sapayoa aenigma, Sapayoa, https://ebird.org/species/sapayo1,NT,, IUCN_LC, IUCN update 2024
-Thamnophilidae,Euchrepomis spodioptila, Ash-winged Antwren, https://ebird.org/species/aswant1,NT,, IUCN_LC, IUCN update 2024
-Thamnophilidae,Thamnophilus zarumae, Chapman's Antshrike, https://ebird.org/species/chaant1,NT,, IUCN_LC, IUCN update 2024
-Thamnophilidae,Dysithamnus puncticeps, Spot-crowned Antvireo, https://ebird.org/species/spcant1,NT,, IUCN_LC, IUCN update 2024
-Thamnophilidae,Dysithamnus leucostictus, White-streaked Antvireo, https://ebird.org/species/whsant4,NT,, IUCN_LC, IUCN update 2024
-Thamnophilidae,Herpsilochmus axillaris, Yellow-breasted Antwren, https://ebird.org/species/yebant2,NT,, IUCN_LC, IUCN update 2024
-Thamnophilidae,Herpsilochmus rufimarginatus, Rufous-margined Antwren, https://ebird.org/species/ruwant4,NT,,,
-Thamnophilidae,Hafferia zeledoni,Zeledon's Antbird,https://ebird.org/species/zelant1,NT,"En la lista, esta como Myrmeciza zeledoni", IUCN_LC, IUCN update 2024
-Thamnophilidae,Gymnopithys bicolor, Bicolored Antbird, https://ebird.org/species/bicant2,NT,, IUCN_LC, IUCN update 2024
-Thamnophilidae,Hylophylax naevioides, Spotted Antbird, https://ebird.org/species/spoant1,NT,, IUCN_LC, IUCN update 2024
-Grallariidae,Grallaria haplonota, Plain-backed Antpitta, https://ebird.org/species/plbant1,NT,, IUCN_LC, IUCN update 2024
-Grallariidae,Grallaria watkinsi, Watkins's Antpitta, https://ebird.org/species/watant1,NT,, IUCN_NT, IUCN update 2024
-Grallariidae,Grallaria nuchalis, Chestnut-naped Antpitta, https://ebird.org/species/chnant1,NT,, IUCN_LC, IUCN update 2024
-Grallariidae,Grallaricula ferrugineipectus, Rusty-breasted Antpitta, https://ebird.org/species/rubant5,NT,, IUCN_LC, IUCN update 2024
-Formicariidae,Formicarius nigricapillus, Black-headed Antthrush, https://ebird.org/species/blhant1,NT,, IUCN_LC, IUCN update 2024
-Formicariidae,Chamaeza campanisona, Short-tailed Antthrush, https://ebird.org/species/shtant1,NT,, IUCN_LC, IUCN update 2024
-Furnariidae,Sclerurus albigularis, Gray-throated Leaftosser, https://ebird.org/species/grtlea1,NT,, IUCN_LC, IUCN update 2024
-Furnariidae,Dendrocolaptes sanctithomae, Northern Barred-Woodcreeper, https://ebird.org/species/nobwoo1,NT,,,
-Furnariidae,Xiphorhynchus lachrymosus, Black-striped Woodcreeper, https://ebird.org/species/blswoo1,NT,, IUCN_LC, IUCN update 2024
-Furnariidae,Xiphorhynchus erythropygius, Spotted Woodcreeper, https://ebird.org/species/spowoo1,NT,,,
-Furnariidae,Drymotoxeres pucheranii, Greater Scythebill, https://ebird.org/species/grescy1,NT,, IUCN_LC, IUCN update 2024
-Furnariidae,Pseudocolaptes lawrencii, Buffy Tuftedcheek, https://ebird.org/species/buftuf1,NT,, IUCN_LC, IUCN update 2024
-Furnariidae,Syndactyla rufosuperciliata, Buff-browed Foliage-gleaner, https://ebird.org/species/bbfgle1,NT,, IUCN_LC, IUCN update 2024
-Furnariidae,Thripadectes ignobilis, Uniform Treehunter, https://ebird.org/species/unitre1,NT,, IUCN_LC, IUCN update 2024
-Furnariidae,Asthenes griseomurina, Mouse-colored Thistletail, https://ebird.org/species/mocthi1,NT,, IUCN_LC, IUCN update 2024
-Furnariidae,Xenerpestes singularis, Equatorial Graytail, https://ebird.org/species/equgra1,NT,, IUCN_LC, IUCN update 2024
-Furnariidae,Synallaxis stictothorax, Necklaced Spinetail, https://ebird.org/species/necspi1,NT,, IUCN_LC, IUCN update 2024
-Tyrannidae,Myiopagis olallai, Foothill Elaenia, https://ebird.org/species/fooela1,NT,, IUCN_LC, IUCN update 2024
-Tyrannidae,Myiopagis subplacens, Pacific Elaenia, https://ebird.org/species/pacela1,NT,, IUCN_LC, IUCN update 2024
-Tyrannidae,Elaenia obscura, Highland Elaenia, https://ebird.org/species/higela2,NT,, IUCN_LC, IUCN update 2024
-Tyrannidae,Pseudelaenia leucospodia, Gray-and-white Tyrannulet, https://ebird.org/species/gawtyr2,NT,, IUCN_LC, IUCN update 2024
-Tyrannidae,Pogonotriccus poecilotis,Variegated Bristle-Tyrant,https://ebird.org/species/vabtyr1,NT,"En la lista, esta como Phylloscartes poecilotis", IUCN_LC, IUCN update 2024
-Tyrannidae,Pogonotriccus orbitalis,Spectacled Bristle-Tyrant,https://ebird.org/species/spbtyr1,NT,"En la lista, esta como Phylloscartes orbitalis", IUCN_LC, IUCN update 2024
-Tyrannidae,Phylloscartes gualaquizae, Ecuadorian Tyrannulet, https://ebird.org/species/ecutyr1,NT,, IUCN_LC, IUCN update 2024
-Tyrannidae,Rhynchocyclus pacificus, Pacific Flatbill, https://ebird.org/species/pacfla1,NT,, IUCN_LC, IUCN update 2024
-Tyrannidae,Platyrinchus flavigularis, Yellow-throated Spadebill, https://ebird.org/species/yetspa1,NT,, IUCN_LC, IUCN update 2024
-Tyrannidae,Onychorhynchus coronatus, Tropical Royal Flycatcher, https://ebird.org/species/royfly1,NT,subespecies coronatus (LC) y occidentalis (VU) pueden ser especies distintas.,,
-Tyrannidae,Lathrotriccus griseipectus, Gray-breasted Flycatcher, https://ebird.org/species/gybfly1,NT,, IUCN_LC, IUCN update 2024
-Tyrannidae,Contopus cooperi, Olive-sided Flycatcher, https://ebird.org/species/olsfly,NT,, IUCN_NT, IUCN update 2024
-Tyrannidae,Mitrephanes phaeocercus, Tufted Flycatcher, https://ebird.org/species/tuffly,NT,, IUCN_LC, IUCN update 2024
-Tyrannidae,Cnemarchus erythropygius, Red-rumped Bush-Tyrant, https://ebird.org/species/rrbtyr1,NT,, IUCN_LC, IUCN update 2024
-Tyrannidae,Conopias albovittatus, White-ringed Flycatcher, https://ebird.org/species/whrfly,NT,, IUCN_LC, IUCN update 2024
-Tyrannidae,Rhytipterna holerythra, Rufous Mourner, https://ebird.org/species/rufmou1,NT,, IUCN_LC, IUCN update 2024
-Tyrannidae,Ramphotrigon fuscicauda, Dusky-tailed Flatbill, https://ebird.org/species/dutfla1,NT,, IUCN_LC, IUCN update 2024
-Cotingidae,Pipreola jucunda, Orange-breasted Fruiteater, https://ebird.org/species/orbfru1,NT,, IUCN_LC, IUCN update 2024
-Cotingidae,Snowornis subalaris, Gray-tailed Piha, https://ebird.org/species/gytpih1,NT,, IUCN_LC, IUCN update 2024
-Cotingidae,Cotinga nattererii, Blue Cotinga, https://ebird.org/species/blucot1,NT,, IUCN_LC, IUCN update 2024
-Cotingidae,Lipaugus fuscocinereus, Dusky Piha, https://ebird.org/species/duspih1,NT,, IUCN_LC, IUCN update 2024
-Cotingidae,Carpodectes hopkei, Black-tipped Cotinga, https://ebird.org/species/bltcot1,NT,, IUCN_LC, IUCN update 2024
-Pipridae,Chloropipo unicolor, Jet Manakin, https://ebird.org/species/jetman2,NT,, IUCN_LC, IUCN update 2024
-Pipridae,Lepidothrix isidorei, Blue-rumped Manakin, https://ebird.org/species/blrman1,NT,, IUCN_LC, IUCN update 2024
-Pipridae,Ceratopipra mentalis, Red-capped Manakin, https://ebird.org/species/recman1,NT,, IUCN_LC, IUCN update 2024
-Tityridae,Laniocera rufescens, Speckled Mourner, https://ebird.org/species/spemou1,NT,, IUCN_LC, IUCN update 2024
-Vireonidae,Pachysylvia semibrunnea, Rufous-naped Greenlet, https://ebird.org/species/rungre1,NT,, IUCN_LC, IUCN update 2024
-Troglodytidae,Odontorchilus branickii, Gray-mantled Wren, https://ebird.org/species/gymwre1,NT,, IUCN_LC, IUCN update 2024
-Troglodytidae,Cantorchilus leucopogon, Stripe-throated Wren, https://ebird.org/species/sttwre1,NT,, IUCN_LC, IUCN update 2024
-Troglodytidae,Cyphorhinus phaeocephalus, Song Wren, https://ebird.org/species/sonwre1,NT,, IUCN_LC, IUCN update 2024
-Polioptilidae,Polioptila schistaceigula, Slate-throated Gnatcatcher, https://ebird.org/species/sltgna1,NT,, IUCN_LC, IUCN update 2024
-Turdidae,Entomodestes coracinus, Black Solitaire, https://ebird.org/species/blasol1,NT,, IUCN_LC, IUCN update 2024
-Turdidae,Turdus obsoletus, Pale-vented Thrush, https://ebird.org/species/pavthr1,NT,, IUCN_LC, IUCN update 2024
-Turdidae,Turdus nigriceps, Andean Slaty Thrush, https://ebird.org/species/slathr2,NT,, IUCN_LC, IUCN update 2024
-Turdidae,Turdus assimilis, White-throated Thrush, https://ebird.org/species/whtrob1,NT,,,
-Thraupidae,Conothraupis speculigera, Black-and-white Tanager, https://ebird.org/species/bawtan1,NT,, IUCN_LC, IUCN update 2024
-Thraupidae,Bangsia edwardsi, Moss-backed Tanager, https://ebird.org/species/mobtan1,NT,, IUCN_LC, IUCN update 2024
-Thraupidae,Poecilostreptus palmeri,Gray-and-gold Tanager,https://ebird.org/species/gagtan1,NT,"En la lista, esta como Tangara palmeri", IUCN_LC, IUCN update 2024
-Thraupidae,Ixothraupis rufigula,Rufous-throated Tanager,https://ebird.org/species/ruttan1,NT,"En la lista, esta como Tangara rufigula", IUCN_LC, IUCN update 2024
-Thraupidae,Tangara lavinia, Rufous-winged Tanager, https://ebird.org/species/ruwtan1,NT,, IUCN_LC, IUCN update 2024
-Thraupidae,Tangara johannae, Blue-whiskered Tanager, https://ebird.org/species/blwtan1,NT,, IUCN_LC, IUCN update 2024
-Thraupidae,Dacnis venusta, Scarlet-thighed Dacnis, https://ebird.org/species/sctdac1,NT,, IUCN_LC, IUCN update 2024
-Thraupidae,Heterospingus xanthopygius, Scarlet-browed Tanager, https://ebird.org/species/scbtan2,NT,, IUCN_LC, IUCN update 2024
-Thraupidae,Chrysothlypis salmoni, Scarlet-and-white Tanager, https://ebird.org/species/sawtan1,NT,, IUCN_LC, IUCN update 2024
-Thraupidae,Diglossa indigotica, Indigo Flowerpiercer, https://ebird.org/species/indflo1,NT,, IUCN_LC, IUCN update 2024
-Thraupidae,Sicalis taczanowskii, Sulphur-throated Finch, https://ebird.org/species/sutfin1,NT,, IUCN_LC, IUCN update 2024
-Passerellidae,Arremon abeillei, Black-capped Sparrow, https://ebird.org/species/bkcspa1,NT,subespecie nigriceps puede ser especie válida (NT)., IUCN_LC, IUCN update 2024
-Passerellidae,Atlapetes albiceps, White-headed Brushfinch, https://ebird.org/species/whbfin1,NT,, IUCN_LC, IUCN update 2024
-Cardinalidae,Chlorothraupis carmioli, Carmiol's Tanager, https://ebird.org/species/olitan1,NT,, IUCN_LC, IUCN update 2024
-Cardinalidae,Chlorothraupis olivacea, Lemon-spectacled Tanager, https://ebird.org/species/lestan,NT,, IUCN_LC, IUCN update 2024
-Parulidae,Myiothlypis fraseri, Gray-and-gold Warbler, https://ebird.org/species/gagwar2,NT,, IUCN_LC, IUCN update 2024
-Icteridae,Psarocolius wagleri, Chestnut-headed Oropendola, https://ebird.org/species/chhoro1,NT,, IUCN_LC, IUCN update 2024
-Icteridae,Agelasticus xanthophthalmus, Pale-eyed Blackbird, https://ebird.org/species/paebla2,NT,, IUCN_LC, IUCN update 2024
-Fringillidae,Spinus spinescens, Andean Siskin, https://ebird.org/species/andsis1,NT,, IUCN_LC, IUCN update 2024
-Fringillidae,Euphonia fulvicrissa, Fulvous-vented Euphonia, https://ebird.org/species/fuveup1,NT,, IUCN_LC, IUCN update 2024
-Fringillidae,Chlorophonia flavirostris, Yellow-collared Chlorophonia, https://ebird.org/species/yecchl1,NT,, IUCN_LC, IUCN update 2024
-Odontophoridae,Odontophorus stellatus, Starred Wood-Quail, https://ebird.org/species/stwqua1,DD,, IUCN_LC, IUCN update 2024
-Cuculidae,Dromococcyx pavoninus, Pavonine Cuckoo, https://ebird.org/species/pavcuc1,DD,, IUCN_LC, IUCN update 2024
-Apodidae,Cypseloides cherriei, Spot-fronted Swift, https://ebird.org/species/spfswi1,DD,, IUCN_LC, IUCN update 2024
-Trochilidae,Avocettula recurvirostris, Fiery-tailed Awlbill, https://ebird.org/species/fitawl1,DD,, IUCN_LC, IUCN update 2024
-Trochilidae,Lophornis chalybeus, Festive Coquette, https://ebird.org/species/fescoq3,DD,, IUCN_LC, IUCN update 2024
-Trochilidae,Campylopterus falcatus, Lazuline Sabrewing, https://ebird.org/species/lazsab1,DD,, IUCN_LC, IUCN update 2024
-Psittacidae,Pyrrhura roseifrons, Rose-fronted Parakeet, https://ebird.org/species/rofpar3,DD,,,
-Pipridae,Chloropipo flavicapilla, Yellow-headed Manakin, https://ebird.org/species/yehman2,DD,, IUCN_VU, IUCN update 2024
-Icteridae,Cacicus latirostris, Band-tailed Cacique, https://ebird.org/species/batoro1,DD,, IUCN_LC, IUCN update 2024
+family,scientific_name,common_name,species_code,category,notes,ebird_picture,IUCN_status,IUCN_comment
+Anatidae ,Spatula cyanoptera borreroi,Cinnamon Teal (Andean),https://ebird.org/species/cintea6,RE,"solo subespecie residente. En la lista, esta como Anas cyanoptera borreroi",,,IUCN update 2024
+Rallidae ,Fulica americana columbiana,American Coot,https://ebird.org/species/y00475,RE,solo subespecie residente (no esta en eBird),https://macaulaylibrary.org/asset/191708561, IUCN_LC, IUCN update 2024
+Passerellidae,Ammodramus savannarum, Grasshopper Sparrow, https://ebird.org/species/graspa,RE,,https://macaulaylibrary.org/asset/627231438, IUCN_LC, IUCN update 2024
+Cracidae ,Crax globulosa, Wattled Curassow, https://ebird.org/species/watcur1,CA-PE,,https://macaulaylibrary.org/asset/474241241, IUCN_EN, IUCN update 2024
+Trochilidae ,Eriocnemis godini, Turquoise-throated Puffleg, https://ebird.org/species/tutpuf1,CA-PE,,, IUCN_CR, IUCN update 2024
+Psittacidae,Ognorhynchus icterotis, Yellow-eared Parrot, https://ebird.org/species/yeepar1,CA-PE,,https://macaulaylibrary.org/asset/118397401, IUCN_VU, IUCN update 2024
+Anatidae,Netta erythrophthalma , Southern Pochard, https://ebird.org/species/soupoc1,CR,,https://macaulaylibrary.org/asset/319788261, IUCN_LC, IUCN update 2024
+Cracidae,Crax rubra , Great Curassow, https://ebird.org/species/grecur1,CR,,https://macaulaylibrary.org/asset/453544411, IUCN_VU, IUCN update 2024
+Threskiornithidae,Theristicus branickii ,Andean Ibis,https://ebird.org/species/bkfibi2,CR,"En la lista, esta como Theristicus melanopis ",https://macaulaylibrary.org/asset/79298701, IUCN_NT, IUCN update 2024
+Accipitridae,Spizaetus isidori , Black-and-chestnut Eagle, https://ebird.org/species/baceag2,CR,,https://macaulaylibrary.org/asset/68582171, IUCN_EN, IUCN update 2024
+Accipitridae,Buteogallus solitarius , Solitary Eagle, https://ebird.org/species/soleag1,CR,,https://macaulaylibrary.org/asset/20371071, IUCN_NT, IUCN update 2024
+Trochilidae,Oreotrochilus cyanolaemus, Blue-throated Hillstar, https://ebird.org/species/buthil1,CR,,https://macaulaylibrary.org/asset/173601431, IUCN_CR, IUCN update 2024
+Trochilidae,Oreotrochilus stolzmanni,Green-headed Hillstar, https://ebird.org/species/andhil2,CR,"En la lista, esta como Oreotrochilus estella ",https://macaulaylibrary.org/asset/447169211, IUCN_LC, IUCN update 2024
+Trochilidae,Eriocnemis nigrivestis, Black-breasted Puffleg, https://ebird.org/species/blbpuf3,CR,,https://macaulaylibrary.org/asset/610103603, IUCN_EN, IUCN update 2024
+Psittacidae,Ara ambiguus, Great Green Macaw, https://ebird.org/species/grgmac,CR,,https://macaulaylibrary.org/asset/626852392, IUCN_CR, IUCN update 2024
+Tyrannidae,Pseudocolopteryx acutipennis, Subtropical Doradito, https://ebird.org/species/subdor1,CR,,https://macaulaylibrary.org/asset/399849621, IUCN_LC, IUCN update 2024
+Thraupidae,Wetmorethraupis sterrhopteron, Orange-throated Tanager, https://ebird.org/species/orttan1,CR,,https://macaulaylibrary.org/asset/178106851, IUCN_VU, IUCN update 2024
+Tinamidae,Tinamus osgoodi, Black Tinamou, https://ebird.org/species/blatin1,EN,,https://macaulaylibrary.org/asset/212977591, IUCN_VU, IUCN update 2024
+Anatidae,Cairina moschata, Muscovy Duck, https://ebird.org/species/musduc,EN,,https://macaulaylibrary.org/asset/272175591, IUCN_LC, IUCN update 2024
+Anatidae,Sarkidiornis sylvicola,Comb Duck, https://ebird.org/species/comduc3,EN,"En la lista, esta como Sarkidiornis melanotos",https://macaulaylibrary.org/asset/205906901, IUCN_LC, IUCN update 2024
+Cracidae,Penelope ortoni, Baudo Guan, https://ebird.org/species/baugua1,EN,,https://macaulaylibrary.org/asset/204071621, IUCN_EN, IUCN update 2024
+Odontophoridae,Rhynchortyx cinctus, Tawny-faced Quail, https://ebird.org/species/tafqua1,EN,,https://macaulaylibrary.org/asset/270241551, IUCN_NT, IUCN update 2024
+Cathartidae,Vultur gryphus, Andean Condor, https://ebird.org/species/andcon1,EN,,https://macaulaylibrary.org/asset/105685761, IUCN_VU, IUCN update 2024
+Accipitridae,Pseudastur occidentalis, Gray-backed Hawk, https://ebird.org/species/gybhaw2,EN,,https://macaulaylibrary.org/asset/53077211, IUCN_VU, IUCN update 2024
+Rallidae,Rallus longirostris, Mangrove Rail, https://ebird.org/species/manrai1,EN,,https://macaulaylibrary.org/asset/617993967, IUCN_LC, IUCN update 2024
+Burhinidae,Hesperoburhinus superciliaris,Peruvian Thick-knee,https://ebird.org/species/petkne1,EN,"En la lista, esta como Burhinus superciliaris ",https://macaulaylibrary.org/asset/605691231, IUCN_VU, IUCN update 2024
+Thinocoridae,Attagis gayi, Rufous-bellied Seedsnipe, https://ebird.org/species/rubsee2,EN,,https://macaulaylibrary.org/asset/244169511, IUCN_LC, IUCN update 2024
+Laridae,Sternula lorata, Peruvian Tern, https://ebird.org/species/perter2,EN,,https://macaulaylibrary.org/asset/592441031, IUCN_EN, IUCN update 2024
+Columbidae,Geotrygon purpurata, Purple Quail-Dove, https://ebird.org/species/sapqud1,EN,,https://macaulaylibrary.org/asset/253470431, IUCN_EN, IUCN update 2024
+Cuculidae,Neomorphus radiolosus, Banded Ground-Cuckoo, https://ebird.org/species/bagcuc1,EN,,https://macaulaylibrary.org/asset/407615351, IUCN_VU, IUCN update 2024
+Strigidae,Glaucidium nubicola, Cloud-forest Pygmy-Owl, https://ebird.org/species/clopyo1,EN,,https://macaulaylibrary.org/asset/204108011, IUCN_VU, IUCN update 2024
+Strigidae,Glaucidium griseiceps, Central American Pygmy-Owl, https://ebird.org/species/capowl1,EN,,https://macaulaylibrary.org/asset/221503511, IUCN_LC, IUCN update 2024
+Trochilidae,Heliangelus regalis, Royal Sunangel, https://ebird.org/species/roysun1,EN,,https://macaulaylibrary.org/asset/539907391, IUCN_NT, IUCN update 2024
+Trochilidae,Metallura baroni, Violet-throated Metaltail, https://ebird.org/species/vitmet1,EN,,https://macaulaylibrary.org/asset/134845971, IUCN_VU, IUCN update 2024
+Trochilidae,Chaetocercus berlepschi, Esmeraldas Woodstar, https://ebird.org/species/esmwoo2,EN,,https://macaulaylibrary.org/asset/134844411, IUCN_VU, IUCN update 2024
+Trochilidae,Chalybura buffonii, White-vented Plumeleteer, https://ebird.org/species/whvplu1,EN,,https://macaulaylibrary.org/asset/205988411, IUCN_LC, IUCN update 2024
+Trochilidae,Chrysuronia humboldtii,Humboldt's Sapphire,https://ebird.org/species/humsap2,EN,"En la lista, esta como Hylocharis humboldtii",https://macaulaylibrary.org/asset/204896351, IUCN_LC, IUCN update 2024
+Capitonidae,Capito quinticolor, Five-colored Barbet, https://ebird.org/species/ficbar1,EN,,https://macaulaylibrary.org/asset/481851161, IUCN_NT, IUCN update 2024
+Falconidae,Micrastur plumbeus, Plumbeous Forest-Falcon, https://ebird.org/species/plffal1,EN,,https://macaulaylibrary.org/asset/138807321, IUCN_VU, IUCN update 2024
+Falconidae,Falco deiroleucus, Orange-breasted Falcon, https://ebird.org/species/orbfal1,EN,,https://macaulaylibrary.org/asset/508921961, IUCN_NT, IUCN update 2024
+Falconidae,Falco peregrinus cassini,Peregrine Falcon,https://ebird.org/species/perfal2,EN,solo subespecie residente,https://macaulaylibrary.org/asset/102537781,,
+Psittacidae,Hapalopsittaca pyrrhops, Red-faced Parrot, https://ebird.org/species/refpar2,EN,,https://macaulaylibrary.org/asset/77840771, IUCN_EN, IUCN update 2024
+Psittacidae,Amazona autumnalis, Red-lored Amazon, https://ebird.org/species/relpar,EN,subespecie lilacina puede ser especie válida (CR).,https://macaulaylibrary.org/asset/620479736,,
+Psittacidae,Pyrrhura orcesi, El Oro Parakeet, https://ebird.org/species/elopar1,EN,,https://macaulaylibrary.org/asset/147997861, IUCN_EN, IUCN update 2024
+Psittacidae,Ara militaris, Military Macaw, https://ebird.org/species/milmac,EN,,https://macaulaylibrary.org/asset/571237821, IUCN_VU, IUCN update 2024
+Psittacidae,Leptosittaca branickii, Golden-plumed Parakeet, https://ebird.org/species/goppar1,EN,,https://macaulaylibrary.org/asset/517203531, IUCN_LC, IUCN update 2024
+Psittacidae,Psittacara wagleri,Cordilleran Parakeet, https://ebird.org/species/scfpar3,EN,,https://macaulaylibrary.org/asset/586976191, IUCN_NT, IUCN update 2024
+Thamnophilidae,Dysithamnus occidentalis, Bicolored Antvireo, https://ebird.org/species/bicant4,EN,,https://macaulaylibrary.org/asset/41966901, IUCN_NT, IUCN update 2024
+Thamnophilidae,Drymophila devillei, Striated Antbird, https://ebird.org/species/strant2,EN,,https://macaulaylibrary.org/asset/38643951, IUCN_LC, IUCN update 2024
+Thamnophilidae,Ampelornis griseiceps,Gray-headed Antbird,https://ebird.org/species/gyhant1,EN,"En la lista, esta como Myrmeciza griseiceps",https://macaulaylibrary.org/asset/121532741, IUCN_NT, IUCN update 2024
+Thamnophilidae,Phaenostictus mcleannani, Ocellated Antbird, https://ebird.org/species/oceant1,EN,,https://macaulaylibrary.org/asset/408234681, IUCN_LC, IUCN update 2024
+Melanopareiidae,Melanopareia maranonica, Marañon Crescentchest, https://ebird.org/species/marcre1,EN,,https://macaulaylibrary.org/asset/533639961, IUCN_LC, IUCN update 2024
+Conopophagidae,Pittasoma rufopileatum, Rufous-crowned Antpitta, https://ebird.org/species/rucant3,EN,,https://macaulaylibrary.org/asset/244045621, IUCN_LC, IUCN update 2024
+Grallariidae,Grallaria ridgelyi, Jocotoco Antpitta, https://ebird.org/species/jocant1,EN,,https://macaulaylibrary.org/asset/152671691, IUCN_EN, IUCN update 2024
+Rhinocryptidae,Scytalopus chocoensis, Choco Tapaculo, https://ebird.org/species/chotap1,EN,,https://macaulaylibrary.org/asset/112785851, IUCN_LC, IUCN update 2024
+Rhinocryptidae,Scytalopus robbinsi, Ecuadorian Tapaculo, https://ebird.org/species/ecutap1,EN,,https://macaulaylibrary.org/asset/538782591, IUCN_EN, IUCN update 2024
+Furnariidae,Neophilydor fuscipenne,Slaty-winged Foliage-gleaner,https://ebird.org/species/swfgle,EN,"En la lista, esta como Philydor fuscipenne ",https://macaulaylibrary.org/asset/618729450, IUCN_LC, IUCN update 2024
+Furnariidae,Synallaxis maranonica, Marañon Spinetail, https://ebird.org/species/marspi3,EN,,https://macaulaylibrary.org/asset/589119281, IUCN_CR, IUCN update 2024
+Furnariidae,Synallaxis tithys, Blackish-headed Spinetail, https://ebird.org/species/blhspi1,EN,,https://macaulaylibrary.org/asset/133597951, IUCN_VU, IUCN update 2024
+Furnariidae,Synallaxis cherriei, Chestnut-throated Spinetail, https://ebird.org/species/chtspi1,EN,,https://macaulaylibrary.org/asset/77540951, IUCN_LC, IUCN update 2024
+Tyrannidae,Hemitriccus cinnamomeipectus, Cinnamon-breasted Tody-Tyrant, https://ebird.org/species/cbttyr1,EN,,https://macaulaylibrary.org/asset/583766671, IUCN_LC, IUCN update 2024
+Tyrannidae,Agriornis albicauda, White-tailed Shrike-Tyrant, https://ebird.org/species/wtstyr1,EN,,https://macaulaylibrary.org/asset/615064046, IUCN_VU, IUCN update 2024
+Tyrannidae,Ochthoeca leucophrys, White-browed Chat-Tyrant, https://ebird.org/species/wbctyr1,EN,,https://macaulaylibrary.org/asset/187182911, IUCN_LC, IUCN update 2024
+Cotingidae,Ampelion rufaxilla, Chestnut-crested Cotinga, https://ebird.org/species/chccot1,EN,,https://macaulaylibrary.org/asset/595744351, IUCN_LC, IUCN update 2024
+Cotingidae,Pyroderus scutatus, Red-ruffed Fruitcrow, https://ebird.org/species/rerfru1,EN,,https://macaulaylibrary.org/asset/204103871, IUCN_LC, IUCN update 2024
+Cotingidae,Cephalopterus penduliger, Long-wattled Umbrellabird, https://ebird.org/species/lowumb1,EN,,https://macaulaylibrary.org/asset/133594331, IUCN_VU, IUCN update 2024
+Vireonidae,Vireo masteri, Choco Vireo, https://ebird.org/species/chovir1,EN,,https://macaulaylibrary.org/asset/248108951, IUCN_NT, IUCN update 2024
+Turdidae,Cichlopsis leucogenys, Rufous-brown Solitaire, https://ebird.org/species/rubsol1,EN,,https://macaulaylibrary.org/asset/531905341,,
+Thraupidae,Dacnis berlepschi, Scarlet-breasted Dacnis, https://ebird.org/species/scbdac1,EN,,https://macaulaylibrary.org/asset/87354401, IUCN_VU, IUCN update 2024
+Thraupidae,Conirostrum binghami,Giant Conebill,https://ebird.org/species/giacon1,EN,"En la lista, esta como Oreomanes fraseri ",https://macaulaylibrary.org/asset/205994201, IUCN_NT, IUCN update 2024
+Thraupidae,Xenodacnis parina, Tit-like Dacnis, https://ebird.org/species/tildac1,EN,,https://macaulaylibrary.org/asset/156513651,,
+Passerellidae,Oreothraupis arremonops, Tanager Finch, https://ebird.org/species/tanfin1,EN,,https://macaulaylibrary.org/asset/633847045, IUCN_LC, IUCN update 2024
+Passerellidae,Atlapetes pallidiceps, Pale-headed Brushfinch, https://ebird.org/species/phbfin1,EN,,https://macaulaylibrary.org/asset/130730411, IUCN_EN, IUCN update 2024
+Tinamidae,Tinamus tao, Gray Tinamou, https://ebird.org/species/grytin1,VU,,https://macaulaylibrary.org/asset/32715241, IUCN_VU, IUCN update 2024
+Tinamidae,Crypturellus berlepschi, Berlepsch's Tinamou, https://ebird.org/species/bertin1,VU,,https://macaulaylibrary.org/asset/249513001, IUCN_LC, IUCN update 2024
+Tinamidae,Crypturellus obsoletus, Brown Tinamou, https://ebird.org/species/brotin1,VU,,https://macaulaylibrary.org/asset/61307611, IUCN_LC, IUCN update 2024
+Anhimidae,Anhima cornuta, Horned Screamer, https://ebird.org/species/horscr1,VU,,https://macaulaylibrary.org/asset/502927211, IUCN_LC, IUCN update 2024
+Cracidae,Penelope barbata, Bearded Guan, https://ebird.org/species/beagua1,VU,,https://macaulaylibrary.org/asset/144524291, IUCN_NT, IUCN update 2024
+Cracidae,Penelope purpurascens, Crested Guan, https://ebird.org/species/cregua1,VU,,https://macaulaylibrary.org/asset/386925581, IUCN_NT, IUCN update 2024
+Cracidae,Ortalis erythroptera, Rufous-headed Chachalaca, https://ebird.org/species/ruhcha1,VU,,https://macaulaylibrary.org/asset/119987731, IUCN_VU, IUCN update 2024
+Odontophoridae,Odontophorus erythrops, Rufous-fronted Wood-Quail, https://ebird.org/species/rfwqua1,VU,,https://macaulaylibrary.org/asset/55202971, IUCN_LC, IUCN update 2024
+Odontophoridae,Odontophorus melanonotus, Dark-backed Wood-Quail, https://ebird.org/species/dbwqua1,VU,,https://macaulaylibrary.org/asset/66902441, IUCN_LC, IUCN update 2024
+Podicipedidae,Podiceps occipitalis, Silvery Grebe, https://ebird.org/species/silgre1,VU,,https://macaulaylibrary.org/asset/243934441,,
+Ardeidae,Agamia agami, Agami Heron, https://ebird.org/species/agaher1,VU,,https://macaulaylibrary.org/asset/313257841, IUCN_NT, IUCN update 2024
+Ardeidae,Zebrilus undulatus, Zigzag Heron, https://ebird.org/species/zigher1,VU,,https://macaulaylibrary.org/asset/623899979, IUCN_LC, IUCN update 2024
+Ardeidae,Botaurus pinnatus, Pinnated Bittern, https://ebird.org/species/pinbit1,VU,,https://macaulaylibrary.org/asset/205005651, IUCN_LC, IUCN update 2024
+Accipitridae,Morphnus guianensis, Crested Eagle, https://ebird.org/species/creeag1,VU,,https://macaulaylibrary.org/asset/618624818, IUCN_NT, IUCN update 2024
+Accipitridae,Harpia harpyja, Harpy Eagle, https://ebird.org/species/hareag1,VU,,https://macaulaylibrary.org/asset/63881241, IUCN_VU, IUCN update 2024
+Accipitridae,Spizaetus tyrannus, Black Hawk-Eagle, https://ebird.org/species/blheag1,VU,,https://macaulaylibrary.org/asset/100210141, IUCN_LC, IUCN update 2024
+Accipitridae,Spizaetus melanoleucus, Black-and-white Hawk-Eagle, https://ebird.org/species/bawhae1,VU,,https://macaulaylibrary.org/asset/408637251, IUCN_LC, IUCN update 2024
+Accipitridae,Circus cinereus, Cinereous Harrier, https://ebird.org/species/cinhar1,VU,,https://macaulaylibrary.org/asset/619909303, IUCN_LC, IUCN update 2024
+Accipitridae,Cryptoleucopteryx plumbea, Plumbeous Hawk, https://ebird.org/species/pluhaw,VU,,https://macaulaylibrary.org/asset/186674091, IUCN_NT, IUCN update 2024
+Accipitridae,Buteogallus anthracinus, Common Black Hawk, https://ebird.org/species/comblh1,VU,,https://macaulaylibrary.org/asset/466759091, IUCN_LC, IUCN update 2024
+Accipitridae,Leucopternis semiplumbeus, Semiplumbeous Hawk, https://ebird.org/species/semhaw,VU,,https://macaulaylibrary.org/asset/205021761, IUCN_LC, IUCN update 2024
+Rallidae,Aramides wolfi, Brown Wood-Rail, https://ebird.org/species/brwrai1,VU,,https://macaulaylibrary.org/asset/69897491, IUCN_VU, IUCN update 2024
+Rallidae,Aramides axillaris, Rufous-necked Wood-Rail, https://ebird.org/species/rnwrai1,VU,,https://macaulaylibrary.org/asset/205909601, IUCN_LC, IUCN update 2024
+Charadriidae,Anarhynchus nivosus,Snowy Plover,https://ebird.org/species/snoplo5,VU,"En la lista, esta como Charadrius nivosus",https://macaulaylibrary.org/asset/32240941, IUCN_NT, IUCN update 2024
+Scolopacidae,Gallinago imperialis, Imperial Snipe, https://ebird.org/species/impsni1,VU,,https://macaulaylibrary.org/asset/551655721, IUCN_NT, IUCN update 2024
+Columbidae,Leptotrygon veraguensis, Olive-backed Quail-Dove, https://ebird.org/species/obqdov1,VU,,https://macaulaylibrary.org/asset/468963331, IUCN_LC, IUCN update 2024
+Columbidae,Leptotila ochraceiventris, Ochre-bellied Dove, https://ebird.org/species/ocbdov1,VU,,https://macaulaylibrary.org/asset/204107931, IUCN_VU, IUCN update 2024
+Trochilidae,Chalcostigma stanleyi, Blue-mantled Thornbill, https://ebird.org/species/blmtho1,VU,,https://macaulaylibrary.org/asset/39592981, IUCN_LC, IUCN update 2024
+Trochilidae,Haplophaedia lugens, Hoary Puffleg, https://ebird.org/species/hoapuf1,VU,,https://macaulaylibrary.org/asset/113639451, IUCN_NT, IUCN update 2024
+Trochilidae,Eriocnemis derbyi, Black-thighed Puffleg, https://ebird.org/species/bltpuf1,VU,,https://macaulaylibrary.org/asset/623635328, IUCN_LC, IUCN update 2024
+Trochilidae,Heliodoxa gularis, Pink-throated Brilliant, https://ebird.org/species/pitbri1,VU,,https://macaulaylibrary.org/asset/630378201, IUCN_LC, IUCN update 2024
+Trochilidae,Chaetocercus bombus, Little Woodstar, https://ebird.org/species/litwoo5,VU,,https://macaulaylibrary.org/asset/75799281, IUCN_NT, IUCN update 2024
+Trochilidae,Chalybura urochrysia, Bronze-tailed Plumeleteer, https://ebird.org/species/brtplu1,VU,,https://macaulaylibrary.org/asset/579618041, IUCN_LC, IUCN update 2024
+Trogonidae,Trogon massena, Slaty-tailed Trogon, https://ebird.org/species/slttro1,VU,,https://macaulaylibrary.org/asset/205002351, IUCN_LC, IUCN update 2024
+Trogonidae,Trogon mesurus, Ecuadorian Trogon, https://ebird.org/species/bkttro2,VU,,https://macaulaylibrary.org/asset/162944491, IUCN_LC, IUCN update 2024
+Galbulidae,Galbula pastazae, Coppery-chested Jacamar, https://ebird.org/species/cocjac2,VU,,https://macaulaylibrary.org/asset/134847871, IUCN_LC, IUCN update 2024
+Bucconidae,Notharchus pectoralis, Black-breasted Puffbird, https://ebird.org/species/blbpuf1,VU,,https://macaulaylibrary.org/asset/554110821, IUCN_LC, IUCN update 2024
+Ramphastidae,Andigena hypoglauca, Gray-breasted Mountain-Toucan, https://ebird.org/species/gybmot1,VU,,https://macaulaylibrary.org/asset/33105551, IUCN_LC, IUCN update 2024
+Ramphastidae,Andigena laminirostris, Plate-billed Mountain-Toucan, https://ebird.org/species/pbmtou1,VU,,https://macaulaylibrary.org/asset/266546811, IUCN_NT, IUCN update 2024
+Picidae,Dryobates chocoensis,Choco Woodpecker,https://ebird.org/species/chowoo1,VU,"En la lista, esta como Veniliornis chocoensis",https://macaulaylibrary.org/asset/138819801, IUCN_LC, IUCN update 2024
+Picidae,Campephilus gayaquilensis, Guayaquil Woodpecker, https://ebird.org/species/guawoo2,VU,,https://macaulaylibrary.org/asset/121433471, IUCN_LC, IUCN update 2024
+Falconidae,Falco femoralis, Aplomado Falcon, https://ebird.org/species/aplfal,VU,,https://macaulaylibrary.org/asset/534893731, IUCN_LC, IUCN update 2024
+Psittacidae,Touit stictopterus, Spot-winged Parrotlet, https://ebird.org/species/spwpar2,VU,,https://macaulaylibrary.org/asset/214092531, IUCN_NT, IUCN update 2024
+Psittacidae,Brotogeris pyrrhoptera, Gray-cheeked Parakeet, https://ebird.org/species/gycpar1,VU,,https://macaulaylibrary.org/asset/80951261, IUCN_VU, IUCN update 2024
+Psittacidae,Pyrilia pulchra, Rose-faced Parrot, https://ebird.org/species/rofpar2,VU,,https://macaulaylibrary.org/asset/121442721, IUCN_LC, IUCN update 2024
+Psittacidae,Pyrrhura albipectus, White-necked Parakeet, https://ebird.org/species/whnpar1,VU,,https://macaulaylibrary.org/asset/133596791, IUCN_VU, IUCN update 2024
+Psittacidae,Ara chloropterus, Red-and-green Macaw, https://ebird.org/species/ragmac1,VU,,https://macaulaylibrary.org/asset/622926268, IUCN_LC, IUCN update 2024
+Thamnophilidae,Thamnophilus praecox, Cocha Antshrike, https://ebird.org/species/cocant1,VU,,https://macaulaylibrary.org/asset/121254251, IUCN_NT, IUCN update 2024
+Thamnophilidae,Thamnophilus punctatus, Northern Slaty-Antshrike, https://ebird.org/species/norsla1,VU,,https://macaulaylibrary.org/asset/459489881, IUCN_LC, IUCN update 2024
+Thamnophilidae,Myrmotherula behni, Plain-winged Antwren, https://ebird.org/species/plwant2,VU,,https://macaulaylibrary.org/asset/608320692, IUCN_LC, IUCN update 2024
+Thamnophilidae,Myrmelastes schistaceus,Slate-colored Antbird,https://ebird.org/species/slcant3,VU,"En la lista, esta como Schistocichla schistacea",https://macaulaylibrary.org/asset/204905151, IUCN_LC, IUCN update 2024
+Thamnophilidae,Sipia nigricauda,Esmeraldas Antbird,https://ebird.org/species/esmant1,VU,"En la lista, esta como Myrmeciza nigricauda",https://macaulaylibrary.org/asset/121532921, IUCN_LC, IUCN update 2024
+Thamnophilidae,Sipia berlepschi,Stub-tailed Antbird,https://ebird.org/species/sttant3,VU,"En la lista, esta como Myrmeciza berlepschi",https://macaulaylibrary.org/asset/117827191, IUCN_LC, IUCN update 2024
+Grallariidae,Grallaria gigantea, Giant Antpitta, https://ebird.org/species/giaant1,VU,,https://macaulaylibrary.org/asset/40914551, IUCN_VU, IUCN update 2024
+Grallariidae,Grallaria alleni, Moustached Antpitta, https://ebird.org/species/mouant1,VU,,https://macaulaylibrary.org/asset/87340721, IUCN_VU, IUCN update 2024
+Grallariidae,Grallaria flavotincta, Yellow-breasted Antpitta, https://ebird.org/species/yebant1,VU,,https://macaulaylibrary.org/asset/108714401, IUCN_LC, IUCN update 2024
+Grallariidae,Hylopezus perspicillatus, Streak-chested Antpitta, https://ebird.org/species/stcant2,VU,,https://macaulaylibrary.org/asset/303365971, IUCN_LC, IUCN update 2024
+Grallariidae,Grallaricula peruviana, Peruvian Antpitta, https://ebird.org/species/perant1,VU,,https://macaulaylibrary.org/asset/107966211, IUCN_NT, IUCN update 2024
+Grallariidae,Grallaricula lineifrons, Crescent-faced Antpitta, https://ebird.org/species/crfant1,VU,,https://macaulaylibrary.org/asset/133975651, IUCN_LC, IUCN update 2024
+Furnariidae,Sclerurus guatemalensis, Scaly-throated Leaftosser, https://ebird.org/species/sctlea1,VU,,https://macaulaylibrary.org/asset/143059931, IUCN_LC, IUCN update 2024
+Furnariidae,Syndactyla ruficollis, Rufous-necked Foliage-gleaner, https://ebird.org/species/rnfgle1,VU,,https://macaulaylibrary.org/asset/162958221, IUCN_LC, IUCN update 2024
+Furnariidae,Clibanornis erythrocephalus, Henna-hooded Foliage-gleaner, https://ebird.org/species/hhfgle1,VU,,https://macaulaylibrary.org/asset/632998937, IUCN_NT, IUCN update 2024
+Furnariidae,Margarornis stellatus, Fulvous-dotted Treerunner, https://ebird.org/species/fudtre1,VU,,https://macaulaylibrary.org/asset/617220917, IUCN_LC, IUCN update 2024
+Furnariidae,Xenerpestes minlosi, Double-banded Graytail, https://ebird.org/species/dobgra1,VU,,https://macaulaylibrary.org/asset/205202551, IUCN_LC, IUCN update 2024
+Tyrannidae,Hemitriccus rufigularis, Buff-throated Tody-Tyrant, https://ebird.org/species/btttyr2,VU,,https://macaulaylibrary.org/asset/362247131, IUCN_LC, IUCN update 2024
+Tyrannidae,Myiophobus roraimae, Roraiman Flycatcher, https://ebird.org/species/rorfly1,VU,,https://macaulaylibrary.org/asset/406664291, IUCN_LC, IUCN update 2024
+Tyrannidae,Nephelomyias lintoni, Orange-banded Flycatcher, https://ebird.org/species/orbfly1,VU,,https://macaulaylibrary.org/asset/178110521, IUCN_LC, IUCN update 2024
+Tyrannidae,Sirystes albogriseus, Choco Sirystes, https://ebird.org/species/siryst3,VU,,https://macaulaylibrary.org/asset/25748151, IUCN_LC, IUCN update 2024
+Tyrannidae,Attila torridus, Ochraceous Attila, https://ebird.org/species/ochatt1,VU,,https://macaulaylibrary.org/asset/291894711, IUCN_NT, IUCN update 2024
+Oxyruncidae,Oxyruncus cristatus, Sharpbill, https://ebird.org/species/sharpb1,VU,,https://macaulaylibrary.org/asset/633974325, IUCN_LC, IUCN update 2024
+Cotingidae,Pipreola frontalis, Scarlet-breasted Fruiteater, https://ebird.org/species/scbfru1,VU,,https://macaulaylibrary.org/asset/61004901,,
+Cotingidae,Pipreola chlorolepidota, Fiery-throated Fruiteater, https://ebird.org/species/fitfru1,VU,,https://macaulaylibrary.org/asset/635124327, IUCN_LC, IUCN update 2024
+Cotingidae,Doliornis remseni, Chestnut-bellied Cotinga, https://ebird.org/species/chbcot1,VU,,https://macaulaylibrary.org/asset/244051861, IUCN_NT, IUCN update 2024
+Cotingidae,Lipaugus unirufus, Rufous Piha, https://ebird.org/species/rufpih1,VU,,https://macaulaylibrary.org/asset/505493481, IUCN_LC, IUCN update 2024
+Tityridae,Laniisoma buckleyi, Andean Laniisoma, https://ebird.org/species/shlcot2,VU,"En la lista, esta como Laniisoma elegans",https://macaulaylibrary.org/asset/606891831, IUCN_LC, IUCN update 2024
+Tityridae,Pachyramphus spodiurus, Slaty Becard, https://ebird.org/species/slabec1,VU,,https://macaulaylibrary.org/asset/53077101, IUCN_VU, IUCN update 2024
+Corvidae,Cyanolyca armillata, Black-collared Jay, https://ebird.org/species/blcjay2,VU,,https://macaulaylibrary.org/asset/297698241,,
+Corvidae,Cyanolyca pulchra, Beautiful Jay, https://ebird.org/species/beajay1,VU,,https://macaulaylibrary.org/asset/108922071, IUCN_NT, IUCN update 2024
+Corvidae,Cyanocorax mystacalis, White-tailed Jay, https://ebird.org/species/whtjay2,VU,,https://macaulaylibrary.org/asset/120929931, IUCN_LC, IUCN update 2024
+Troglodytidae,Henicorhina leucoptera, Bar-winged Wood-Wren, https://ebird.org/species/bwwwre1,VU,,https://macaulaylibrary.org/asset/39599201, IUCN_LC, IUCN update 2024
+Thraupidae,Bangsia rothschildi, Golden-chested Tanager, https://ebird.org/species/goctan1,VU,,https://macaulaylibrary.org/asset/39598131, IUCN_LC, IUCN update 2024
+Thraupidae,Tephrophilus wetmorei,Masked Mountain Tanager,https://ebird.org/species/mamtan1,VU,"En la lista, esta como Buthraupis wetmorei",https://macaulaylibrary.org/asset/210555911, IUCN_VU, IUCN update 2024
+Thraupidae,Iridosornis porphyrocephalus, Purplish-mantled Tanager, https://ebird.org/species/pumtan2,VU,,https://macaulaylibrary.org/asset/270247571, IUCN_NT, IUCN update 2024
+Thraupidae,Saltator cinctus, Masked Saltator, https://ebird.org/species/massal1,VU,,https://macaulaylibrary.org/asset/407614781, IUCN_LC, IUCN update 2024
+Passerellidae,Bangsia flavovirens,Yellow-green Tanager,https://ebird.org/species/ygbtan1,VU,"En la lista, esta como Chlorospingus flavovirens",https://macaulaylibrary.org/asset/117824611, IUCN_VU, IUCN update 2024
+Parulidae,Setophaga cerulea, Cerulean Warbler, https://ebird.org/species/cerwar,VU,,https://macaulaylibrary.org/asset/398957491, IUCN_NT, IUCN update 2024
+Fringillidae,Spinus siemiradzkii, Saffron Siskin, https://ebird.org/species/safsis1,VU,,https://macaulaylibrary.org/asset/204657931, IUCN_LC, IUCN update 2024
+Tinamidae,Nothocercus julius, Tawny-breasted Tinamou, https://ebird.org/species/tabtin1,NT,,https://macaulaylibrary.org/asset/305353251, IUCN_LC, IUCN update 2024
+Tinamidae,Nothocercus bonapartei, Highland Tinamou, https://ebird.org/species/higtin1,NT,,https://macaulaylibrary.org/asset/38249511, IUCN_LC, IUCN update 2024
+Tinamidae,Tinamus major, Great Tinamou, https://ebird.org/species/gretin1,NT,,https://macaulaylibrary.org/asset/194119241, IUCN_LC, IUCN update 2024
+Tinamidae,Crypturellus transfasciatus, Pale-browed Tinamou, https://ebird.org/species/pabtin1,NT,,https://macaulaylibrary.org/asset/613996902, IUCN_NT, IUCN update 2024
+Anatidae,Merganetta armata, Torrent Duck, https://ebird.org/species/torduc1,NT,,https://macaulaylibrary.org/asset/635913311, IUCN_LC, IUCN update 2024
+Anatidae,Nomonyx dominicus, Masked Duck, https://ebird.org/species/masduc,NT,,https://macaulaylibrary.org/asset/44039181, IUCN_LC, IUCN update 2024
+Anatidae,Oxyura ferruginea, Andean Duck,https://ebird.org/species/andduc1/EC,NT,"En la lista, esta como Oxyura jamaicensis",https://macaulaylibrary.org/asset/629726122, IUCN_LC, IUCN update 2024
+Cracidae,Aburria aburri, Wattled Guan, https://ebird.org/species/watgua1,NT,,https://macaulaylibrary.org/asset/510925521, IUCN_LC, IUCN update 2024
+Cracidae,Mitu salvini, Salvin's Curassow, https://ebird.org/species/salcur1,NT,,https://macaulaylibrary.org/asset/88991431, IUCN_LC, IUCN update 2024
+Odontophoridae,Odontophorus speciosus, Rufous-breasted Wood-Quail, https://ebird.org/species/rbwqua1,NT,,https://macaulaylibrary.org/asset/617092566, IUCN_LC, IUCN update 2024
+Pelecanidae,Pelecanus thagus, Peruvian Pelican, https://ebird.org/species/perpel1,NT,,https://macaulaylibrary.org/asset/609771316, IUCN_NT, IUCN update 2024
+Ardeidae,Tigrisoma fasciatum, Fasciated Tiger-Heron, https://ebird.org/species/father1,NT,,https://macaulaylibrary.org/asset/625949406, IUCN_LC, IUCN update 2024
+Cathartidae,Sarcoramphus papa, King Vulture, https://ebird.org/species/kinvul1,NT,,https://macaulaylibrary.org/asset/624949268, IUCN_LC, IUCN update 2024
+Accipitridae,Spizaetus ornatus, Ornate Hawk-Eagle, https://ebird.org/species/orheag1,NT,,https://macaulaylibrary.org/asset/26851021, IUCN_NT, IUCN update 2024
+Accipitridae,Microspizias collaris,Semicollared Hawk,https://ebird.org/species/semhaw2,NT,"En la lista, esta como Accipiter collaris",https://macaulaylibrary.org/asset/267173351, IUCN_LC, IUCN update 2024
+Accipitridae,Morphnarchus princeps, Barred Hawk, https://ebird.org/species/barhaw1,NT,,https://macaulaylibrary.org/asset/70944161, IUCN_LC, IUCN update 2024
+Psophiidae,Psophia crepitans, Gray-winged Trumpeter, https://ebird.org/species/gywtru1,NT,,https://macaulaylibrary.org/asset/44486691,,
+Rallidae,Aramides calopterus, Red-winged Wood-Rail, https://ebird.org/species/rwwrai1,NT,,https://macaulaylibrary.org/asset/615100222, IUCN_LC, IUCN update 2024
+Rallidae,Amaurolimnas concolor, Uniform Crake, https://ebird.org/species/unicra1,NT,,https://macaulaylibrary.org/asset/625059558, IUCN_LC, IUCN update 2024
+Charadriidae,Hoploxypterus cayanus,Pied Plover,https://ebird.org/species/pielap1,NT,"En la lista, esta como Vanellus cayanus",https://macaulaylibrary.org/asset/613780644, IUCN_LC, IUCN update 2024
+Charadriidae,Anarhynchus wilsonia,Wilson's Plover,https://ebird.org/species/wilplo,NT,"En la lista, esta como Charadrius wilsonia",https://macaulaylibrary.org/asset/204896411, IUCN_LC, IUCN update 2024
+Scolopacidae,Calidris subruficollis, Buff-breasted Sandpiper, https://ebird.org/species/bubsan,NT,,https://macaulaylibrary.org/asset/55965441, IUCN_VU, IUCN update 2024
+Scolopacidae,Gallinago nobilis, Noble Snipe, https://ebird.org/species/nobsni1,NT,,https://macaulaylibrary.org/asset/609215763, IUCN_NT, IUCN update 2024
+Laridae,Phaetusa simplex, Large-billed Tern, https://ebird.org/species/labter1,NT,,https://macaulaylibrary.org/asset/510291411, IUCN_LC, IUCN update 2024
+Columbidae,Patagioenas goodsoni, Dusky Pigeon, https://ebird.org/species/duspig2,NT,,https://macaulaylibrary.org/asset/251745001, IUCN_LC, IUCN update 2024
+Cuculidae,Neomorphus geoffroyi, Rufous-vented Ground-Cuckoo, https://ebird.org/species/rvgcuc1,NT,,https://macaulaylibrary.org/asset/487011071,,
+Strigidae,Megascops ingens,Rufescent Screech-Owl,https://ebird.org/species/rufsco1,NT,"En la lista, esta como Megascops colombianus",https://macaulaylibrary.org/asset/618043109, IUCN_LC, IUCN update 2024
+Strigidae,Megascops centralis,Choco Screech-Owl, https://ebird.org/species/versco2,NT,"En la lista, esta como Megascops guatemalae, dos subespecies son NT",https://macaulaylibrary.org/asset/553939791,,
+Strigidae,Aegolius harrisii, Buff-fronted Owl, https://ebird.org/species/bufowl1,NT,,https://macaulaylibrary.org/asset/421935851, IUCN_LC, IUCN update 2024
+Nyctibiidae,Nyctibius maculosus, Andean Potoo, https://ebird.org/species/andpot1,NT,,https://macaulaylibrary.org/asset/120982341, IUCN_LC, IUCN update 2024
+Caprimulgidae,Nyctiphrynus rosenbergi, Choco Poorwill, https://ebird.org/species/chopoo1,NT,,https://macaulaylibrary.org/asset/204905011, IUCN_LC, IUCN update 2024
+Trochilidae,Glaucis aeneus, Bronzy Hermit, https://ebird.org/species/broher,NT,,https://macaulaylibrary.org/asset/56879051, IUCN_LC, IUCN update 2024
+Trochilidae,Androdon aequatorialis, Tooth-billed Hummingbird, https://ebird.org/species/tobhum1,NT,,https://macaulaylibrary.org/asset/303879111, IUCN_LC, IUCN update 2024
+Trochilidae,Phlogophilus hemileucurus, Ecuadorian Piedtail, https://ebird.org/species/ecupie1,NT,,https://macaulaylibrary.org/asset/556629731, IUCN_LC, IUCN update 2024
+Trochilidae,Metallura odomae, Neblina Metaltail, https://ebird.org/species/nebmet1,NT,,https://macaulaylibrary.org/asset/184401651, IUCN_LC, IUCN update 2024
+Trochilidae,Eriocnemis aline, Emerald-bellied Puffleg, https://ebird.org/species/embpuf1,NT,,https://macaulaylibrary.org/asset/57330971, IUCN_LC, IUCN update 2024
+Trochilidae,Boissonneaua jardini, Velvet-purple Coronet, https://ebird.org/species/vepcor1,NT,,https://macaulaylibrary.org/asset/68582701, IUCN_LC, IUCN update 2024
+Trochilidae,Urosticte benjamini, Purple-bibbed Whitetip, https://ebird.org/species/pubwhi1,NT,,https://macaulaylibrary.org/asset/71415641, IUCN_LC, IUCN update 2024
+Trochilidae,Urosticte ruficrissa, Rufous-vented Whitetip, https://ebird.org/species/ruvwhi1,NT,,https://macaulaylibrary.org/asset/56801731, IUCN_LC, IUCN update 2024
+Trochilidae,Heliodoxa imperatrix, Empress Brilliant, https://ebird.org/species/empbri1,NT,,https://macaulaylibrary.org/asset/55724691, IUCN_LC, IUCN update 2024
+Trochilidae,Campylopterus villaviscensio, Napo Sabrewing, https://ebird.org/species/napsab1,NT,,https://macaulaylibrary.org/asset/39597111, IUCN_LC, IUCN update 2024
+Trochilidae,Thaumasius baeri,Tumbes Hummingbird,https://ebird.org/species/tumhum1,NT,"En la lista, esta como Leucippus baeri",https://macaulaylibrary.org/asset/77439881, IUCN_LC, IUCN update 2024
+Trochilidae,Polyerata rosenbergi,Purple-chested Hummingbird,https://ebird.org/species/puchum1,NT,"En la lista, esta como Amazilia rosenbergi",https://macaulaylibrary.org/asset/121024531, IUCN_LC, IUCN update 2024
+Trochilidae,Chrysuronia grayi,Blue-headed Sapphire,https://ebird.org/species/blhsap1,NT,"En la lista, esta como Hylocharis grayi",https://macaulaylibrary.org/asset/165169311, IUCN_LC, IUCN update 2024
+Trogonidae,Trogon comptus, Blue-tailed Trogon, https://ebird.org/species/buttro1,NT,,https://macaulaylibrary.org/asset/37149871, IUCN_LC, IUCN update 2024
+Trogonidae,Trogon caligatus, Gartered Trogon, https://ebird.org/species/gartro1,NT,,https://macaulaylibrary.org/asset/515029651,,
+Galbulidae,Jacamerops aureus, Great Jacamar, https://ebird.org/species/grejac2,NT,,https://macaulaylibrary.org/asset/379465761, IUCN_LC, IUCN update 2024
+Bucconidae,Malacoptila fulvogularis, Black-streaked Puffbird, https://ebird.org/species/blspuf1,NT,,https://macaulaylibrary.org/asset/424823561, IUCN_LC, IUCN update 2024
+Bucconidae,Hapaloptila castanea, White-faced Nunbird, https://ebird.org/species/whfnun2,NT,,https://macaulaylibrary.org/asset/607649301, IUCN_LC, IUCN update 2024
+Capitonidae,Capito squamatus, Orange-fronted Barbet, https://ebird.org/species/orfbar1,NT,,https://macaulaylibrary.org/asset/80493991, IUCN_LC, IUCN update 2024
+Semnornithidae,Semnornis ramphastinus, Toucan Barbet, https://ebird.org/species/toubar1,NT,,https://macaulaylibrary.org/asset/115124131, IUCN_NT, IUCN update 2024
+Ramphastidae,Ramphastos ambiguus, Yellow-throated Toucan, https://ebird.org/species/bkmtou1,NT,,https://macaulaylibrary.org/asset/623721680, IUCN_LC, IUCN update 2024
+Ramphastidae,Ramphastos brevis, Choco Toucan, https://ebird.org/species/chotou1,NT,,https://macaulaylibrary.org/asset/109700181, IUCN_LC, IUCN update 2024
+Ramphastidae,Aulacorhynchus derbianus, Chestnut-tipped Toucanet, https://ebird.org/species/chttou3,NT,,https://macaulaylibrary.org/asset/599548441, IUCN_LC, IUCN update 2024
+Ramphastidae,Andigena nigrirostris, Black-billed Mountain-Toucan, https://ebird.org/species/bbmtou1,NT,,https://macaulaylibrary.org/asset/527325371, IUCN_LC, IUCN update 2024
+Ramphastidae,Pteroglossus torquatus, Collared Aracari, https://ebird.org/species/colara1,NT,subespecie erythropygius puede ser especie valida (VU).,https://macaulaylibrary.org/asset/608762784,,
+Picidae,Picumnus sclateri, Ecuadorian Piculet, https://ebird.org/species/ecupic1,NT,,https://macaulaylibrary.org/asset/202683921, IUCN_LC, IUCN update 2024
+Picidae,Piculus litae, Lita Woodpecker, https://ebird.org/species/litwoo1,NT,,https://macaulaylibrary.org/asset/263176301, IUCN_LC, IUCN update 2024
+Picidae,Celeus loricatus, Cinnamon Woodpecker, https://ebird.org/species/cinwoo1,NT,,https://macaulaylibrary.org/asset/204106311,IUCN_LC, IUCN update 2024
+Picidae,Campephilus haematogaster, Crimson-bellied Woodpecker, https://ebird.org/species/crbwoo1,NT,subespecie splendens puede ser especie valida (VU).,https://macaulaylibrary.org/asset/518062071,,
+Falconidae,Micrastur mirandollei, Slaty-backed Forest-Falcon, https://ebird.org/species/sbffal1,NT,,https://macaulaylibrary.org/asset/594049991, IUCN_LC, IUCN update 2024
+Falconidae,Ibycter americanus, Red-throated Caracara, https://ebird.org/species/retcar2,NT,,https://macaulaylibrary.org/asset/204329051, IUCN_LC, IUCN update 2024
+Psittacidae,Touit dilectissimus, Blue-fronted Parrotlet, https://ebird.org/species/bufpar1,NT,,https://macaulaylibrary.org/asset/632535549, IUCN_LC, IUCN update 2024
+Psittacidae,Amazona festiva, Festive Amazon, https://ebird.org/species/fespar1,NT,,https://macaulaylibrary.org/asset/584215091,,
+Psittacidae,Amazona farinosa, Mealy Amazon, https://ebird.org/species/meapar,NT,,https://macaulaylibrary.org/asset/504625781,,
+Psittacidae,Amazona mercenarius, Scaly-naped Amazon, https://ebird.org/species/scnpar1,NT,,https://macaulaylibrary.org/asset/480112381, IUCN_LC, IUCN update 2024
+Psittacidae,Ara ararauna, Blue-and-yellow Macaw, https://ebird.org/species/baymac,NT,,https://macaulaylibrary.org/asset/609561179, IUCN_LC, IUCN update 2024
+Psittacidae,Ara macao, Scarlet Macaw, https://ebird.org/species/scamac1,NT,,https://macaulaylibrary.org/asset/80976381, IUCN_LC, IUCN update 2024
+Psittacidae,Psittacara erythrogenys, Red-masked Parakeet, https://ebird.org/species/rempar,NT,,https://macaulaylibrary.org/asset/550399931, IUCN_NT, IUCN update 2024
+Sapayoidae,Sapayoa aenigma, Sapayoa, https://ebird.org/species/sapayo1,NT,,https://macaulaylibrary.org/asset/204886361, IUCN_LC, IUCN update 2024
+Thamnophilidae,Euchrepomis spodioptila, Ash-winged Antwren, https://ebird.org/species/aswant1,NT,,https://macaulaylibrary.org/asset/703250, IUCN_LC, IUCN update 2024
+Thamnophilidae,Thamnophilus zarumae, Chapman's Antshrike, https://ebird.org/species/chaant1,NT,,https://macaulaylibrary.org/asset/613941199, IUCN_LC, IUCN update 2024
+Thamnophilidae,Dysithamnus puncticeps, Spot-crowned Antvireo, https://ebird.org/species/spcant1,NT,,https://macaulaylibrary.org/asset/612486461, IUCN_LC, IUCN update 2024
+Thamnophilidae,Dysithamnus leucostictus, White-streaked Antvireo, https://ebird.org/species/whsant4,NT,,https://macaulaylibrary.org/asset/555816621, IUCN_LC, IUCN update 2024
+Thamnophilidae,Herpsilochmus axillaris, Yellow-breasted Antwren, https://ebird.org/species/yebant2,NT,,https://macaulaylibrary.org/asset/145054111, IUCN_LC, IUCN update 2024
+Thamnophilidae,Herpsilochmus frater, Rusty-winged Antwren, https://ebird.org/species/ruwant3,NT,"En la lista, esta como Herpsilochmus rufimarginatus",https://macaulaylibrary.org/asset/204996741,,
+Thamnophilidae,Hafferia zeledoni,Zeledon's Antbird,https://ebird.org/species/zelant1,NT,"En la lista, esta como Myrmeciza zeledoni",https://macaulaylibrary.org/asset/602786551, IUCN_LC, IUCN update 2024
+Thamnophilidae,Gymnopithys bicolor, Bicolored Antbird, https://ebird.org/species/bicant2,NT,,https://macaulaylibrary.org/asset/306951921, IUCN_LC, IUCN update 2024
+Thamnophilidae,Hylophylax naevioides, Spotted Antbird, https://ebird.org/species/spoant1,NT,,https://macaulaylibrary.org/asset/437789001, IUCN_LC, IUCN update 2024
+Grallariidae,Grallaria haplonota, Plain-backed Antpitta, https://ebird.org/species/plbant1,NT,,https://macaulaylibrary.org/asset/548301881, IUCN_LC, IUCN update 2024
+Grallariidae,Grallaria watkinsi, Watkins's Antpitta, https://ebird.org/species/watant1,NT,,https://macaulaylibrary.org/asset/80212931, IUCN_NT, IUCN update 2024
+Grallariidae,Grallaria nuchalis, Chestnut-naped Antpitta, https://ebird.org/species/chnant1,NT,,https://macaulaylibrary.org/asset/473998111, IUCN_LC, IUCN update 2024
+Grallariidae,Grallaricula leymebambae , Rusty-breasted Antpitta,https://ebird.org/species/rubant7,NT,"En la lista, esta como Grallaricula ferrugineipectus",https://macaulaylibrary.org/asset/426801741, IUCN_LC, IUCN update 2024
+Formicariidae,Formicarius nigricapillus, Black-headed Antthrush, https://ebird.org/species/blhant1,NT,,https://macaulaylibrary.org/asset/121617911, IUCN_LC, IUCN update 2024
+Formicariidae,Chamaeza campanisona, Short-tailed Antthrush, https://ebird.org/species/shtant1,NT,,https://macaulaylibrary.org/asset/450067811, IUCN_LC, IUCN update 2024
+Furnariidae,Sclerurus albigularis, Gray-throated Leaftosser, https://ebird.org/species/grtlea1,NT,,https://macaulaylibrary.org/asset/118213631, IUCN_LC, IUCN update 2024
+Furnariidae,Dendrocolaptes sanctithomae, Northern Barred-Woodcreeper, https://ebird.org/species/nobwoo1,NT,,https://macaulaylibrary.org/asset/600583551,,
+Furnariidae,Xiphorhynchus lachrymosus, Black-striped Woodcreeper, https://ebird.org/species/blswoo1,NT,,https://macaulaylibrary.org/asset/518060911, IUCN_LC, IUCN update 2024
+Furnariidae,Xiphorhynchus erythropygius, Spotted Woodcreeper, https://ebird.org/species/spowoo1,NT,,https://macaulaylibrary.org/asset/608757689,,
+Furnariidae,Drymotoxeres pucheranii, Greater Scythebill, https://ebird.org/species/grescy1,NT,,https://macaulaylibrary.org/asset/386988861, IUCN_LC, IUCN update 2024
+Furnariidae,Pseudocolaptes johnsoni, Pacific Tuftedcheek, https://ebird.org/species/buftuf3,NT,"En la lista, esta como Pseudocolaptes lawrencii",https://macaulaylibrary.org/asset/264937711, IUCN_LC, IUCN update 2024
+Furnariidae,Syndactyla rufosuperciliata, Buff-browed Foliage-gleaner, https://ebird.org/species/bbfgle1,NT,,https://macaulaylibrary.org/asset/363364611, IUCN_LC, IUCN update 2024
+Furnariidae,Thripadectes ignobilis, Uniform Treehunter, https://ebird.org/species/unitre1,NT,,https://macaulaylibrary.org/asset/587502361, IUCN_LC, IUCN update 2024
+Furnariidae,Asthenes griseomurina, Mouse-colored Thistletail, https://ebird.org/species/mocthi1,NT,,https://macaulaylibrary.org/asset/39593311, IUCN_LC, IUCN update 2024
+Furnariidae,Xenerpestes singularis, Equatorial Graytail, https://ebird.org/species/equgra1,NT,,https://macaulaylibrary.org/asset/244505131, IUCN_LC, IUCN update 2024
+Furnariidae,Synallaxis stictothorax, Necklaced Spinetail, https://ebird.org/species/necspi1,NT,,https://macaulaylibrary.org/asset/399098791, IUCN_LC, IUCN update 2024
+Tyrannidae,Myiopagis olallai, Foothill Elaenia, https://ebird.org/species/fooela1,NT,,https://macaulaylibrary.org/asset/343222381, IUCN_LC, IUCN update 2024
+Tyrannidae,Myiopagis subplacens, Pacific Elaenia, https://ebird.org/species/pacela1,NT,,https://macaulaylibrary.org/asset/205981561, IUCN_LC, IUCN update 2024
+Tyrannidae,Elaenia obscura, Highland Elaenia, https://ebird.org/species/higela2,NT,,https://macaulaylibrary.org/asset/24038871, IUCN_LC, IUCN update 2024
+Tyrannidae,Pseudelaenia leucospodia, Gray-and-white Tyrannulet, https://ebird.org/species/gawtyr2,NT,,https://macaulaylibrary.org/asset/535982921, IUCN_LC, IUCN update 2024
+Tyrannidae,Pogonotriccus poecilotis,Variegated Bristle-Tyrant,https://ebird.org/species/vabtyr1,NT,"En la lista, esta como Phylloscartes poecilotis",https://macaulaylibrary.org/asset/542311241, IUCN_LC, IUCN update 2024
+Tyrannidae,Pogonotriccus orbitalis,Spectacled Bristle-Tyrant,https://ebird.org/species/spbtyr1,NT,"En la lista, esta como Phylloscartes orbitalis",https://macaulaylibrary.org/asset/359519661, IUCN_LC, IUCN update 2024
+Tyrannidae,Phylloscartes gualaquizae, Ecuadorian Tyrannulet, https://ebird.org/species/ecutyr1,NT,,https://macaulaylibrary.org/asset/367354221, IUCN_LC, IUCN update 2024
+Tyrannidae,Rhynchocyclus pacificus, Pacific Flatbill, https://ebird.org/species/pacfla1,NT,,https://macaulaylibrary.org/asset/474282321, IUCN_LC, IUCN update 2024
+Tyrannidae,Platyrinchus flavigularis, Yellow-throated Spadebill, https://ebird.org/species/yetspa1,NT,,https://macaulaylibrary.org/asset/632959978, IUCN_LC, IUCN update 2024
+Tyrannidae,Onychorhynchus coronatus, Tropical Royal Flycatcher, https://ebird.org/species/royfly1,NT,subespecies coronatus (LC) y occidentalis (VU) pueden ser especies distintas.,https://macaulaylibrary.org/asset/564830751,,
+Tyrannidae,Lathrotriccus griseipectus, Gray-breasted Flycatcher, https://ebird.org/species/gybfly1,NT,,https://macaulaylibrary.org/asset/163095801, IUCN_LC, IUCN update 2024
+Tyrannidae,Contopus cooperi, Olive-sided Flycatcher, https://ebird.org/species/olsfly,NT,,https://macaulaylibrary.org/asset/186247611, IUCN_NT, IUCN update 2024
+Tyrannidae,Mitrephanes phaeocercus, Tufted Flycatcher, https://ebird.org/species/tuffly,NT,,https://macaulaylibrary.org/asset/117809221, IUCN_LC, IUCN update 2024
+Tyrannidae,Cnemarchus erythropygius, Red-rumped Bush-Tyrant, https://ebird.org/species/rrbtyr1,NT,,https://macaulaylibrary.org/asset/178631041, IUCN_LC, IUCN update 2024
+Tyrannidae,Conopias albovittatus, White-ringed Flycatcher, https://ebird.org/species/whrfly,NT,,https://macaulaylibrary.org/asset/613669459, IUCN_LC, IUCN update 2024
+Tyrannidae,Rhytipterna holerythra, Rufous Mourner, https://ebird.org/species/rufmou1,NT,,https://macaulaylibrary.org/asset/41961061, IUCN_LC, IUCN update 2024
+Tyrannidae,Ramphotrigon fuscicauda, Dusky-tailed Flatbill, https://ebird.org/species/dutfla1,NT,,https://macaulaylibrary.org/asset/81116621, IUCN_LC, IUCN update 2024
+Cotingidae,Pipreola jucunda, Orange-breasted Fruiteater, https://ebird.org/species/orbfru1,NT,,https://macaulaylibrary.org/asset/608798234, IUCN_LC, IUCN update 2024
+Cotingidae,Snowornis subalaris, Gray-tailed Piha, https://ebird.org/species/gytpih1,NT,,https://macaulaylibrary.org/asset/621214199, IUCN_LC, IUCN update 2024
+Cotingidae,Cotinga nattererii, Blue Cotinga, https://ebird.org/species/blucot1,NT,,https://macaulaylibrary.org/asset/611970373, IUCN_LC, IUCN update 2024
+Cotingidae,Lipaugus fuscocinereus, Dusky Piha, https://ebird.org/species/duspih1,NT,,https://macaulaylibrary.org/asset/182145451, IUCN_LC, IUCN update 2024
+Cotingidae,Carpodectes hopkei, Black-tipped Cotinga, https://ebird.org/species/bltcot1,NT,,https://macaulaylibrary.org/asset/621842958, IUCN_LC, IUCN update 2024
+Pipridae,Chloropipo unicolor, Jet Manakin, https://ebird.org/species/jetman2,NT,,https://macaulaylibrary.org/asset/609307823, IUCN_LC, IUCN update 2024
+Pipridae,Lepidothrix isidorei, Blue-rumped Manakin, https://ebird.org/species/blrman1,NT,,https://macaulaylibrary.org/asset/542798931, IUCN_LC, IUCN update 2024
+Pipridae,Ceratopipra mentalis, Red-capped Manakin, https://ebird.org/species/recman1,NT,,https://macaulaylibrary.org/asset/202022651, IUCN_LC, IUCN update 2024
+Tityridae,Laniocera rufescens, Speckled Mourner, https://ebird.org/species/spemou1,NT,,https://macaulaylibrary.org/asset/601912061, IUCN_LC, IUCN update 2024
+Vireonidae,Pachysylvia semibrunnea, Rufous-naped Greenlet, https://ebird.org/species/rungre1,NT,,https://macaulaylibrary.org/asset/583023541, IUCN_LC, IUCN update 2024
+Troglodytidae,Odontorchilus branickii, Gray-mantled Wren, https://ebird.org/species/gymwre1,NT,,https://macaulaylibrary.org/asset/612242230, IUCN_LC, IUCN update 2024
+Troglodytidae,Cantorchilus leucopogon, Stripe-throated Wren, https://ebird.org/species/sttwre1,NT,,https://macaulaylibrary.org/asset/462828881, IUCN_LC, IUCN update 2024
+Troglodytidae,Cyphorhinus phaeocephalus, Song Wren, https://ebird.org/species/sonwre1,NT,,https://macaulaylibrary.org/asset/120279531, IUCN_LC, IUCN update 2024
+Polioptilidae,Polioptila schistaceigula, Slate-throated Gnatcatcher, https://ebird.org/species/sltgna1,NT,,https://macaulaylibrary.org/asset/234063901, IUCN_LC, IUCN update 2024
+Turdidae,Entomodestes coracinus, Black Solitaire, https://ebird.org/species/blasol1,NT,,https://macaulaylibrary.org/asset/622476597, IUCN_LC, IUCN update 2024
+Turdidae,Turdus obsoletus, Pale-vented Thrush, https://ebird.org/species/pavthr1,NT,,https://macaulaylibrary.org/asset/205987171, IUCN_LC, IUCN update 2024
+Turdidae,Turdus nigriceps, Andean Slaty Thrush, https://ebird.org/species/slathr2,NT,,https://macaulaylibrary.org/asset/624029378, IUCN_LC, IUCN update 2024
+Turdidae,Turdus assimilis, White-throated Thrush, https://ebird.org/species/whtrob1,NT,,https://macaulaylibrary.org/asset/303342511,,
+Thraupidae,Conothraupis speculigera, Black-and-white Tanager, https://ebird.org/species/bawtan1,NT,,https://macaulaylibrary.org/asset/547373621, IUCN_LC, IUCN update 2024
+Thraupidae,Bangsia edwardsi, Moss-backed Tanager, https://ebird.org/species/mobtan1,NT,,https://macaulaylibrary.org/asset/440401641, IUCN_LC, IUCN update 2024
+Thraupidae,Poecilostreptus palmeri,Gray-and-gold Tanager,https://ebird.org/species/gagtan1,NT,"En la lista, esta como Tangara palmeri",https://macaulaylibrary.org/asset/621617770, IUCN_LC, IUCN update 2024
+Thraupidae,Ixothraupis rufigula,Rufous-throated Tanager,https://ebird.org/species/ruttan1,NT,"En la lista, esta como Tangara rufigula",https://macaulaylibrary.org/asset/622295909, IUCN_LC, IUCN update 2024
+Thraupidae,Tangara lavinia, Rufous-winged Tanager, https://ebird.org/species/ruwtan1,NT,,https://macaulaylibrary.org/asset/385717511, IUCN_LC, IUCN update 2024
+Thraupidae,Tangara johannae, Blue-whiskered Tanager, https://ebird.org/species/blwtan1,NT,,https://macaulaylibrary.org/asset/545125961, IUCN_LC, IUCN update 2024
+Thraupidae,Dacnis venusta, Scarlet-thighed Dacnis, https://ebird.org/species/sctdac1,NT,,https://macaulaylibrary.org/asset/530762101, IUCN_LC, IUCN update 2024
+Thraupidae,Heterospingus xanthopygius, Scarlet-browed Tanager, https://ebird.org/species/scbtan2,NT,,https://macaulaylibrary.org/asset/498822061, IUCN_LC, IUCN update 2024
+Thraupidae,Chrysothlypis salmoni, Scarlet-and-white Tanager, https://ebird.org/species/sawtan1,NT,,https://macaulaylibrary.org/asset/72975931, IUCN_LC, IUCN update 2024
+Thraupidae,Diglossa indigotica, Indigo Flowerpiercer, https://ebird.org/species/indflo1,NT,,https://macaulaylibrary.org/asset/545523681, IUCN_LC, IUCN update 2024
+Thraupidae,Sicalis taczanowskii, Sulphur-throated Finch, https://ebird.org/species/sutfin1,NT,,https://macaulaylibrary.org/asset/545202601, IUCN_LC, IUCN update 2024
+Passerellidae,Arremon abeillei, Black-capped Sparrow, https://ebird.org/species/bkcspa1,NT,subespecie nigriceps puede ser especie válida (NT).,https://macaulaylibrary.org/asset/593425761, IUCN_LC, IUCN update 2024
+Passerellidae,Atlapetes albiceps, White-headed Brushfinch, https://ebird.org/species/whbfin1,NT,,https://macaulaylibrary.org/asset/77439971, IUCN_LC, IUCN update 2024
+Cardinalidae,Chlorothraupis stolzmanni,Ochre-breasted Tanager, https://ebird.org/species/olitan1,NT,"En la lista, esta como Chlorothraupis carmioli",https://macaulaylibrary.org/asset/110958461, IUCN_LC, IUCN update 2024
+Cardinalidae,Chlorothraupis olivacea, Lemon-spectacled Tanager, https://ebird.org/species/lestan,NT,,https://macaulaylibrary.org/asset/427681461, IUCN_LC, IUCN update 2024
+Parulidae,Myiothlypis fraseri, Gray-and-gold Warbler, https://ebird.org/species/gagwar2,NT,,https://macaulaylibrary.org/asset/625261767, IUCN_LC, IUCN update 2024
+Icteridae,Psarocolius wagleri, Chestnut-headed Oropendola, https://ebird.org/species/chhoro1,NT,,https://macaulaylibrary.org/asset/544741611, IUCN_LC, IUCN update 2024
+Icteridae,Agelasticus xanthophthalmus, Pale-eyed Blackbird, https://ebird.org/species/paebla2,NT,,https://macaulaylibrary.org/asset/70042661, IUCN_LC, IUCN update 2024
+Fringillidae,Spinus spinescens, Andean Siskin, https://ebird.org/species/andsis1,NT,,https://macaulaylibrary.org/asset/589717671, IUCN_LC, IUCN update 2024
+Fringillidae,Euphonia fulvicrissa, Fulvous-vented Euphonia, https://ebird.org/species/fuveup1,NT,,https://macaulaylibrary.org/asset/613731724, IUCN_LC, IUCN update 2024
+Fringillidae,Chlorophonia flavirostris, Yellow-collared Chlorophonia, https://ebird.org/species/yecchl1,NT,,https://macaulaylibrary.org/asset/512794071, IUCN_LC, IUCN update 2024
+Odontophoridae,Odontophorus stellatus, Starred Wood-Quail, https://ebird.org/species/stwqua1,DD,,https://macaulaylibrary.org/asset/628324681, IUCN_LC, IUCN update 2024
+Cuculidae,Dromococcyx pavoninus, Pavonine Cuckoo, https://ebird.org/species/pavcuc1,DD,,https://macaulaylibrary.org/asset/68831851, IUCN_LC, IUCN update 2024
+Apodidae,Cypseloides cherriei, Spot-fronted Swift, https://ebird.org/species/spfswi1,DD,,https://macaulaylibrary.org/asset/551936031, IUCN_LC, IUCN update 2024
+Trochilidae,Avocettula recurvirostris, Fiery-tailed Awlbill, https://ebird.org/species/fitawl1,DD,https://ebird.org/species/fescoq2/EC,https://macaulaylibrary.org/asset/102626621, IUCN_LC, IUCN update 2024
+Trochilidae,Lophornis verreauxii, Butterfly Coquette, https://ebird.org/species/fescoq2,DD,"En la lista, esta como Lophornis chalybeus ",https://macaulaylibrary.org/asset/620544837, IUCN_LC, IUCN update 2024
+Trochilidae,Campylopterus falcatus, Lazuline Sabrewing, https://ebird.org/species/lazsab1,DD,,https://macaulaylibrary.org/asset/31717841, IUCN_LC, IUCN update 2024
+Psittacidae,Pyrrhura roseifrons, Rose-fronted Parakeet, https://ebird.org/species/rofpar3,DD,,https://macaulaylibrary.org/asset/69451121,,
+Pipridae,Chloropipo flavicapilla, Yellow-headed Manakin, https://ebird.org/species/yehman2,DD,,https://macaulaylibrary.org/asset/114453791, IUCN_VU, IUCN update 2024
+Icteridae,Cacicus latirostris, Band-tailed Cacique, https://ebird.org/species/batoro1,DD,,https://macaulaylibrary.org/asset/386825261, IUCN_LC, IUCN update 2024

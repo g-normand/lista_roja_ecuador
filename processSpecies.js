@@ -12,6 +12,7 @@ const sp_category = sp.map(s => {
         scientific_name: s.scientific_name,
         category: s.category,
         notes:s.notes,
+        ebird_picture:s.ebird_picture,
         iucn_status: s.IUCN_status,
     }
 })
