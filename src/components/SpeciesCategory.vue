@@ -72,10 +72,15 @@
         </b-card-body>
       </b-card>
       <b-card fluid class="h-100 bg-light" v-if="!category.name">
-        Por favor, seleccione una categoría.<br /><br />
-        Las fotos provienen de la Macaulay Library.
+        <h3>Lista roja de las aves del Ecuador</h3>
+        Por favor, seleccione una categoría.<br />
+        <b-button squared v-b-toggle.sidebar-categories class="categories-button" v-show="show_categories_button">Ver categorías</b-button>
         <br />
-        Los datos provienen de la <a href="https://avesconservacion.org/wp-content/uploads/2021/11/1-LR-lista_roja_avesEC.pdf" target="_blank">lista roja de las aves del Ecuador de 2019</a>.
+        <br />
+        <br />
+        Los datos provienen de : <a href="https://avesconservacion.org/wp-content/uploads/2021/11/1-LR-lista_roja_avesEC.pdf" target="_blank"><img src="https://multimedia20stg.blob.core.windows.net/post/post1732post1732Lista%20roja-min.png" width="300px" /></a><br />
+        y las fotos de la Macaulay Library. <br />
+        No se incluyen especies de Preocupación Menor (LC) ni especies no evaluables (NE).
       </b-card>
     </b-col>
   </b-row>
@@ -95,6 +100,7 @@ export default {
       currentPage: 1,
       perPage: 15,
       showIframes: true,  
+      show_categories_button:false,
     }
   },
   props: ['category'],
@@ -102,6 +108,7 @@ export default {
     species_list_table() {
         this.category_list = this.species_list
           .filter((s) => s.category.includes(this.category.code));
+        this.show_categories_button = false;
     }
   },
   created: function() {
@@ -124,7 +131,12 @@ export default {
         this.showIframes = true;
       });
     }
-  }
+  },
+  mounted: function () {   
+    if (window.innerWidth < 760){
+      this.show_categories_button = true;
+    }
+  },
 };
 
 </script>

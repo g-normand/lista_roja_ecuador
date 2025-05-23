@@ -9,35 +9,35 @@ import logo_zoziologie from "./assets/logo_zoziologie.svg";
 <template>
   <div>
 
-    <b-button squared v-b-toggle.sidebar-categories class="categories-button" v-show="show_categories_button">Ver categorías</b-button>
-      <b-sidebar title="Categorías" shadow id="sidebar-categories" class="mt-2">
-          <b-overlay rounded="sm">
-            <div class="py-2" id="category-group">
-            <b-button
-              squared
-              v-for="(r, i) in categories"
-              :key="r.category"
-              :class="r.code === current_category.code ? 'current-categories-button' : 'categories-button'"
-              @click="changeCategory(r)">
-              <b-icon icon="binoculars" />
-              {{ r.name }}
-            </b-button>
-          </div>
-        </b-overlay>
-        <template #footer>
-          <div class="d-flex bg-dark text-light align-items-center px-3 py-2 w-100 justify-content-between">
-            Made with <b-icon icon="heart" /> by
-            <a href="https://guiguide.alwaysdata.net/" target="_blank" title="guiguide.alwaysdata.net"
-              ><b-img :src="logo_guiguide" class="zozio"></b-img>
-            Guillaume Normand</a>
-          </div>
-          <div class="d-flex bg-dark text-light align-items-center px-3 py-2 w-100 justify-content-between">
-            Inspired by 
-            <a href="https://zoziologie.raphaelnussbaumer.com/see-your-observations/" target="_blank" title="zoziologie.com"
-              ><b-img :src="logo_zoziologie" class="zozio"></b-img></a>
-          </div>
-        </template>
-      </b-sidebar>
+    <b-button squared v-b-toggle.sidebar-categories class="categories-button" v-show="show_sidebar_button">Ver categorías</b-button>
+    <b-sidebar title="Categorías" shadow id="sidebar-categories" class="mt-2">
+      <b-overlay rounded="sm">
+          <div class="py-2" id="category-group">
+          <b-button
+            squared
+            v-for="(r, i) in categories"
+            :key="r.category"
+            :class="r.code === current_category.code ? 'current-categories-button' : 'categories-button'"
+            @click="changeCategory(r)">
+            <b-icon icon="binoculars" />
+            {{ r.name }}
+          </b-button>
+        </div>
+      </b-overlay>
+      <template #footer>
+        <div class="d-flex bg-dark text-light align-items-center px-3 py-2 w-100 justify-content-between">
+          Made with <b-icon icon="heart" /> by
+          <a href="https://guiguide.alwaysdata.net/" target="_blank" title="guiguide.alwaysdata.net"
+            ><b-img :src="logo_guiguide" class="zozio"></b-img>
+          Guillaume Normand</a>
+        </div>
+        <div class="d-flex bg-dark text-light align-items-center px-3 py-2 w-100 justify-content-between">
+          Inspired by 
+          <a href="https://zoziologie.raphaelnussbaumer.com/see-your-observations/" target="_blank" title="zoziologie.com"
+            ><b-img :src="logo_zoziologie" class="zozio"></b-img></a>
+        </div>
+      </template>
+    </b-sidebar>
   </div>
 
   <SpeciesCategory :category=current_category />
@@ -52,7 +52,7 @@ export default {
       logo_guiguide: logo_guiguide,
       categories: categories,
       current_category: "VU",
-      show_categories_button: false,
+      show_sidebar_button: false,
     }
   },
   methods: {
@@ -60,7 +60,7 @@ export default {
       this.current_category = r;
       if (window.innerWidth < 760){
         this.$root.$emit('bv::toggle::collapse', 'sidebar-categories');
-        this.show_categories_button = true;
+        this.show_sidebar_button = true;
       }
     }
   },
@@ -69,7 +69,7 @@ export default {
       this.$root.$emit('bv::toggle::collapse', 'sidebar-categories')
     }
     else{
-      this.show_categories_button = true;
+      this.show_sidebar_button = false;
     }
   },
 }
