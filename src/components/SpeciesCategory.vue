@@ -3,35 +3,39 @@
   <b-row class="h-100">
     <b-col class="h-100 col-xs-12 md-9 col-lg-9 d-flex flex-column py-2">
        <b-card v-if="category.name">
-         <b-card-body>
-            <h3> {{ category.name }} ({{ category_list.length }})</h3>
-           <b-table id="species_table"
-             hover             
-             responsive
-             :fields="[
-               { key: 'family', label: 'Familia', sortable: true },
-               { key: 'picture', label: 'Imagen', sortable: false },
-               { key: 'scientific_name', label: 'Nombre cientifico', sortable: true },
-               { key: 'common_name', label: 'Nombre en inglés', sortable: true },
-               { key: 'notes', label: 'Nota', sortable: true },
-               { key: 'iucn_status', label: 'IUCN Status', sortable: true },
-             ]"
-             :items="category_list"
-             :per-page="perPage"
-             :current-page="currentPage"
-           >
-             <template #cell(picture)="sp">
-                <iframe  v-if="sp.item.ebird_picture && showIframes" :src="sp.item.ebird_picture + '/embed'" height="332" width="320" frameborder="0" allowfullscreen></iframe> 
+        <b-card-body>
+          <h3> {{ category.name }} ({{ category_list.length }})</h3>
+          <b-table id="species_table"
+            hover             
+            responsive
+            :fields="[
+              { key: 'family', label: 'Familia', sortable: true },
+              { key: 'picture', label: 'Imagen', sortable: false },
+              { key: 'scientific_name', label: 'Nombre cientifico', sortable: true },
+              { key: 'common_name', label: 'Nombre en inglés', sortable: true },
+              { key: 'notes', label: 'Nota', sortable: true },
+              { key: 'iucn_status', label: 'IUCN Status', sortable: true },
+            ]"
+            :items="category_list"
+            :per-page="perPage"
+            :current-page="currentPage"
+          >
+            <template #cell(picture)="sp">
+              <div v-if="!sp.item.ebird_picture">No hay imágenes</div>
+              <iframe v-if="sp.item.ebird_picture && showIframes" :src="sp.item.ebird_picture + '/embed'" height="332" width="320" frameborder="0" allowfullscreen></iframe> 
             </template>
-             <template #cell(common_name)="sp">
-               <b-link
-                 :href="sp.item.species_code + '/EC'" 
+            <template #cell(common_name)="sp">
+              <b-link
+                :href="sp.item.species_code + '/EC'" 
                 target="_blank"
               >
                 {{ sp.value }}
               </b-link>
             </template>
-             <template #cell(iucn_status)="sp">
+            <template #cell(notes)="sp">
+              <div v-html="sp.item.notes"></div>
+            </template>
+            <template #cell(iucn_status)="sp">
               <span v-if="sp.item.iucn_status == 'IUCN_LC'" class="ebirdBadge u-inline-xs u-color-constatus-lc">
                 <span class="Badge-label">LC</span>
               </span>
@@ -77,8 +81,9 @@
         <b-button squared v-b-toggle.sidebar-categories class="categories-button" v-show="show_categories_button">Ver categorías</b-button>
         <br />
         <br />
-        <br />
-        Los datos provienen de : <a href="https://avesconservacion.org/wp-content/uploads/2021/11/1-LR-lista_roja_avesEC.pdf" target="_blank"><img src="https://multimedia20stg.blob.core.windows.net/post/post1732post1732Lista%20roja-min.png" width="300px" /></a><br />
+        Los datos provienen de Freile, J. F., T. Santander G., G. Jiménez-Uzcátegui, L. Carrasco, D. F. Cisneros-Heredia,
+E. A. Guevara, M. Sánchez-Nivicela y B. A. Tinoco. (2019). <b>Lista roja de las aves del Ecuador.</b> Ministerio del Ambiente, Aves y Conservación, Comité Ecuatoriano de Registros Ornitológicos, Fundación Charles Darwin, Universidad del Azuay, Red Aves Ecuador y Universidad San Francisco de Quito. Quito, Ecuador:
+<a href="https://avesconservacion.org/wp-content/uploads/2021/11/1-LR-lista_roja_avesEC.pdf" target="_blank"><img src="https://multimedia20stg.blob.core.windows.net/post/post1732post1732Lista%20roja-min.png" width="300px" /></a><br />
         y las fotos de la Macaulay Library. <br />
         No se incluyen especies de Preocupación Menor (LC) ni especies no evaluables (NE).
       </b-card>
