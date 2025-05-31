@@ -12,9 +12,9 @@
               { key: 'family', label: 'Familia', sortable: true },
               { key: 'picture', label: 'Imagen', sortable: false },
               { key: 'scientific_name', label: 'Nombre cientifico', sortable: true },
-              { key: 'common_name', label: 'Nombre en inglés', sortable: true },
+              { key: 'spanish_name', label: 'Nombre en español', sortable: true },
               { key: 'notes', label: 'Nota', sortable: true },
-              { key: 'iucn_status', label: 'IUCN Status', sortable: true },
+              { key: 'iucn_status', label: 'Status', sortable: true },
             ]"
             :items="category_list"
             :per-page="perPage"
@@ -24,7 +24,7 @@
               <div v-if="!sp.item.ebird_picture">No hay imágenes</div>
               <iframe v-if="sp.item.ebird_picture && showIframes" :src="sp.item.ebird_picture + '/embed'" height="332" width="320" frameborder="0" allowfullscreen></iframe> 
             </template>
-            <template #cell(common_name)="sp">
+            <template #cell(spanish_name)="sp">
               <b-link
                 :href="sp.item.species_code + '/EC'" 
                 target="_blank"
@@ -36,6 +36,30 @@
               <div v-html="sp.item.notes"></div>
             </template>
             <template #cell(iucn_status)="sp">
+              EC :
+              <span v-if="sp.item.category == 'NT'" class="ebirdBadge u-inline-xs u-color-constatus-nt">
+                <span class="Badge-label">NT</span>
+              </span>
+              <span v-if="sp.item.category == 'VU'" class="ebirdBadge u-inline-xs u-color-constatus-vu">
+                <span class="Badge-label">VU</span>
+              </span>
+              <span v-if="sp.item.category == 'EN'" class="ebirdBadge u-inline-xs u-color-constatus-en">
+                <span class="Badge-label">EN</span>
+              </span>
+              <span v-if="sp.item.category == 'CR'" class="ebirdBadge u-inline-xs u-color-constatus-cr">
+                <span class="Badge-label">CR</span>
+              </span>
+              <span v-if="sp.item.category == 'CA-PE'" class="ebirdBadge u-inline-xs u-color-constatus-ex">
+                <span class="Badge-label">CR-PE</span>
+              </span>
+              <span v-if="sp.item.category == 'RE'" class="ebirdBadge u-inline-xs u-color-constatus-ew">
+                <span class="Badge-label">RE</span>
+              </span>
+              <span v-if="sp.item.category == 'DD'" class="ebirdBadge u-inline-xs u-color-constatus-dd">
+                <span class="Badge-label">DD</span>
+              </span>
+              <br />
+              Mundo :
               <span v-if="sp.item.iucn_status == 'IUCN_LC'" class="ebirdBadge u-inline-xs u-color-constatus-lc">
                 <span class="Badge-label">LC</span>
               </span>
@@ -62,6 +86,9 @@
               </span>
               <span v-if="sp.item.iucn_status == 'IUCN_NE'" class="ebirdBadge u-inline-xs u-color-constatus-ne">
                 <span class="Badge-label">NE</span>
+              </span>
+              <span v-if="!sp.item.iucn_status" class="ebirdBadge u-inline-xs u-color-constatus-dd">
+                <span class="Badge-label">?</span>
               </span>
             </template>
           </b-table>

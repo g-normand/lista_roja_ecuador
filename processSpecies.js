@@ -7,7 +7,8 @@ const sp = await csvtojson.csv().fromFile("data/species_list.csv")
 const sp_category = sp.map(s => {
     return {
         family:s.family,
-        common_name: s.common_name,
+        spanish_name: s.spanish_name,
+        english_name: s.english_name,
         species_code: s.species_code,
         scientific_name: s.scientific_name,
         category: s.category,
