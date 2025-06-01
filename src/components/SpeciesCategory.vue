@@ -165,7 +165,7 @@ export default {
     }
   },
   mounted: function () {   
-    if (window.innerWidth < 760){
+    if (window.innerWidth <= 760){
       this.show_categories_button = true;
     }
   },

@@ -58,14 +58,14 @@ export default {
   methods: {
     changeCategory(r) {
       this.current_category = r;
-      if (window.innerWidth < 760){
+      if (window.innerWidth <= 760){
         this.$root.$emit('bv::toggle::collapse', 'sidebar-categories');
         this.show_sidebar_button = true;
       }
     }
   },
   mounted: function () {   
-    if (window.innerWidth > 760){
+    if (window.innerWidth >= 760){
       this.$root.$emit('bv::toggle::collapse', 'sidebar-categories')
     }
     else{
