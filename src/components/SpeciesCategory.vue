@@ -139,14 +139,16 @@ export default {
   props: ['category', 'searchQuery'],
   methods: {
     species_list_table() {
-      const q = (this.searchQuery || '').trim().toLowerCase();
+      const normalize = (str) => (str || '').toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+
+      const q = normalize(this.searchQuery);
       if ((q.length) > 0) {
         this.filtered_list = this.species_list
           .filter((s) => !q || 
-            s.scientific_name?.toLowerCase().includes(q) ||
-            s.english_name?.toLowerCase().includes(q) ||
-            s.spanish_name?.toLowerCase().includes(q) ||
-            s.family?.toLowerCase().includes(q)
+            normalize(s.scientific_name).includes(q) ||
+            normalize(s.english_name).includes(q) ||
+            normalize(s.spanish_name).includes(q) ||
+            normalize(s.family).includes(q)
           );
         this.filtered_name = `Busqueda : ${this.searchQuery}`;
       } else {
