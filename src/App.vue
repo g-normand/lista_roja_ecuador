@@ -1,9 +1,12 @@
 <script setup>
+import { ref } from 'vue'
 import SpeciesCategory from './components/SpeciesCategory.vue'
 import FooterInfo from './components/FooterInfo.vue'
 import categories from "./assets/categories.json";
 import logo_guiguide from "./assets/logo_guiguide.png";
 import logo_zoziologie from "./assets/logo_zoziologie.svg";
+
+const searchQuery = ref('')
 </script>
 
 <template>
@@ -39,8 +42,15 @@ import logo_zoziologie from "./assets/logo_zoziologie.svg";
       </template>
     </b-sidebar>
   </div>
+    
+  <input
+    v-model="searchQuery"
+    type="search"
+    placeholder="Buscar especie"
+    class="search-input"
+  />
 
-  <SpeciesCategory :category=current_category />
+  <SpeciesCategory :category="current_category" :searchQuery="searchQuery" />
   <FooterInfo />
 </template>
 
@@ -66,7 +76,9 @@ export default {
   },
   mounted: function () {   
     if (window.innerWidth >= 760){
-      this.$root.$emit('bv::toggle::collapse', 'sidebar-categories')
+      // Show sidebar
+      this.$root.$emit('bv::toggle::collapse', 'sidebar-categories');
+      this.show_sidebar_button = true;
     }
     else{
       this.show_sidebar_button = false;

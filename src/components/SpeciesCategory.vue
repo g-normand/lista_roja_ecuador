@@ -2,9 +2,9 @@
 <b-container fluid class="h-100 bg-light overflow-auto" id="specieslist">
   <b-row class="h-100">
     <b-col class="h-100 col-xs-12 md-9 col-lg-9 d-flex flex-column py-2">
-       <b-card v-if="category.name">
+       <b-card v-if="filtered_name">
         <b-card-body>
-          <h3> {{ category.name }} ({{ category_list.length }})</h3>
+          <h3> {{ filtered_name }} ({{ filtered_list.length }})</h3>
           <b-table id="species_table"
             hover             
             responsive
@@ -16,7 +16,7 @@
               { key: 'notes', label: 'Nota', sortable: true },
               { key: 'iucn_status', label: 'Status', sortable: true },
             ]"
-            :items="category_list"
+            :items="filtered_list"
             :per-page="perPage"
             :current-page="currentPage"
           >
@@ -93,16 +93,16 @@
             </template>
           </b-table>
            <b-pagination
-              v-if="category_list.length > 15"
+              v-if="filtered_list.length > 15"
               v-model="currentPage"
-              :total-rows="category_list.length"
+              :total-rows="filtered_list.length"
               :per-page="perPage"
               align="center"
               class="my-2"
             />
         </b-card-body>
       </b-card>
-      <b-card fluid class="h-100 bg-light" v-if="!category.name">
+      <b-card fluid class="h-100 bg-light" v-if="!filtered_name">
         <h3>Lista roja de las aves del Ecuador</h3>
         Por favor, seleccione una categoría.<br />
         <b-button squared v-b-toggle.sidebar-categories class="categories-button" v-show="show_categories_button">Ver categorías</b-button>
@@ -128,19 +128,33 @@ export default {
   data() {
     return {
       species_list: species_list,
-      category_list: [],
+      filtered_list: [],
+      filtered_name: '',
       currentPage: 1,
       perPage: 15,
       showIframes: true,  
       show_categories_button:false,
     }
   },
-  props: ['category'],
+  props: ['category', 'searchQuery'],
   methods: {
     species_list_table() {
-        this.category_list = this.species_list
-          .filter((s) => s.category.includes(this.category.code));
-        this.show_categories_button = false;
+      const q = (this.searchQuery || '').trim().toLowerCase();
+      if ((q.length) > 0) {
+        this.filtered_list = this.species_list
+          .filter((s) => !q || 
+            s.scientific_name?.toLowerCase().includes(q) ||
+            s.english_name?.toLowerCase().includes(q) ||
+            s.spanish_name?.toLowerCase().includes(q) ||
+            s.family?.toLowerCase().includes(q)
+          );
+        this.filtered_name = `Busqueda : ${this.searchQuery}`;
+      } else {
+        this.filtered_list = this.species_list
+          .filter((s) => s.category.includes(this.category.code))
+        this.filtered_name = this.category.name;
+      }
+      this.show_categories_button = false;
     }
   },
   created: function() {
@@ -149,6 +163,9 @@ export default {
     });
   },
   watch: { 
+    searchQuery() {
+      this.species_list_table();
+    },
     category: function(newVal, oldVal) { // watch it
       this.currentPage = 1;
       this.species_list_table();

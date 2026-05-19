@@ -213,3 +213,20 @@ html, body, .initial-content{
 .current-categories-button{
 	background-color: goldenrod !important;
 }
+
+.search-input {
+  display: block;
+  width: 100%;
+  max-width: 380px;
+  margin: 0.75rem auto 1rem;
+  padding: 0.45rem 1rem;
+  border: 2px solid cadetblue;
+  border-radius: 2rem;
+  font-size: 1rem;
+  outline: none;
+  transition: border-color 0.2s;
+
+  &:focus {
+    border-color: darken(#c0392b, 15%);
+  }
+}
